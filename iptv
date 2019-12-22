@@ -1,81 +1,48 @@
 #EXTM3U
-#EXTINF:-1,GR - NOVA CINEMA 1 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55018
-#EXTINF:-1,GR - NOVA CINEMA 2 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55017
-#EXTINF:-1,GR - NOVA CINEMA 3 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55016
-#EXTINF:-1,GR - NOVA CINEMA 4 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55015
-#EXTINF:-1,GR - COSMOTE CINEMA 1 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55014
-#EXTINF:-1,GR - COSMOTE CINEMA 2 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55013
-#EXTINF:-1,GR - COSMOTE CINEMA 3 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55012
-#EXTINF:-1,GR - COSMOSTE CINEMA 4 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/55011
-#EXTINF:-1,GR - NOVA SPORT 1 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54961
-#EXTINF:-1,GR - NOVA SPORT 2 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54960
-#EXTINF:-1,GR - NOVA SPORT 3 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54959
-#EXTINF:-1,GR - NOVA SPORT 4 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54958
-#EXTINF:-1,GR - NOVA SPORT 5 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54957
-#EXTINF:-1,GR - NOVA SPORT 24 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54956
-#EXTINF:-1,GR - COSMOTE SPORT 1 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54947
-#EXTINF:-1,GR - COSMOTE SPORT 2 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54946
-#EXTINF:-1,GR - COSMOTE SPORT 3 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54945
-#EXTINF:-1,GR - COSMOTE SPORT 4 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54944
-#EXTINF:-1,GR - COSMOTE SPORT 5 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54943
-#EXTINF:-1,GR - COSMOTE SPORT 6 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54942
-#EXTINF:-1,GR - COSMOTE SPORT 7 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54941
-#EXTINF:-1,GR - COSMOTE SPORT 8 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54940
-#EXTINF:-1,GR - COSMOTE SPORT 9 HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54939
-#EXTINF:-1,GR - COSMOTE SPORT HIGHLIGHTS HD
-http://tektv.co:80/918485454628/BAmhgN8MoL/54938
-#EXTINF:-1,https://flylinks.net, GR - NOVA SPORT 1 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54961.m3u8
-#EXTINF:-1,https://flylinks.net, GR - NOVA SPORT 2 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54960.m3u8
-#EXTINF:-1,https://flylinks.net, GR - NOVA SPORT 3 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54959.m3u8
-#EXTINF:-1,https://flylinks.net, GR - NOVA SPORT 4 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54958.m3u8
-#EXTINF:-1,https://flylinks.net, GR - NOVA SPORT 5 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54957.m3u8
-#EXTINF:-1,https://flylinks.net, GR - NOVA SPORT 24 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54956.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 1 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54947.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 2 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54946.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 3 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54945.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 4 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54944.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 5 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54943.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 6 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54942.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 7 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54941.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 8 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54940.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT 9 HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54939.m3u8
-#EXTINF:-1,https://flylinks.net, GR - COSMOTE SPORT HIGHLIGHTS HD
-http://185.150.27.194:80/live/7EIDFxBvzu/msjnGrW3mC/54938.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 1 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA SPORT 1 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44504
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 2 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA SPORT 2 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44505
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 3 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA SPORT 3 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44506
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 4 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA SPORT 4 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44507
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 5 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA SPORT 5 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44508
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA SPORT 24 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA SPORT 24 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44509
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 1 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 1 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44518
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 2 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 2 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44519
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 3 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 3 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44520
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 4 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 4 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44521
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 5 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 5 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44522
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 6 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 6 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44523
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 7 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 7 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44524
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 8 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 8 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44525
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT 9 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT 9 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44526
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE SPORT HIGHLIGHTS HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE SPORT HIGHLIGHTS HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44527
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA CINEMA 1 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA CINEMA 1 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44451
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA CINEMA 2 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA CINEMA 2 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44452
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA CINEMA 3 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA CINEMA 3 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44453
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NOVA CINEMA 4 HD" tvg-logo="" group-title="EU GREECE",GR: NOVA CINEMA 4 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44454
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE CINEMA 1 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE CINEMA 1 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44455
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE CINEMA 2 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE CINEMA 2 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44456
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOTE CINEMA 3 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOTE CINEMA 3 HD
+http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/44457
+#EXTINF:-1 tvg-ID="" tvg-name="GR: COSMOSTE CINEMA 4 HD" tvg-logo="" group-title="EU GREECE",GR: COSMOSTE CINEMA 4 HD
