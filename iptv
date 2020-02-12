@@ -1,35 +1,20 @@
 #EXTM3U
-#EXTINF:-1,OTE SPORT 1 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4743
-#EXTINF:-1,OTE SPORT 2 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4742
-#EXTINF:-1,OTE SPORT 3 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4741
-#EXTINF:-1,OTE SPORT 4 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4740
-#EXTINF:-1,OTE SPORT 5 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4739
-#EXTINF:-1,OTE SPORT 6 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4738
-#EXTINF:-1,OTE SPORT 7 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4737
-#EXTINF:-1,OTE SPORT 8 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4736
-#EXTINF:-1,OTE SPORT 9 (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4119
-#EXTINF:-1,OTE SPORTS HIGHLIGHTS (GR)
-http://ok2.se:8000/6a59F7UmbFvDePRCk/83e8F9UEhzYimGscP/4117
-#EXTINF:-1,GR: Nova Sports 1 FHD
-http://95.154.194.84:8000/14fIq4TDmE/GfCruyHz18/88634
-#EXTINF:-1,GR: Nova Sports 1 HD
-http://95.154.194.84:8000/14fIq4TDmE/GfCruyHz18/88635
-#EXTINF:-1,GR: Nova Sports 2 FHD
-http://95.154.194.84:8000/14fIq4TDmE/GfCruyHz18/88633
-#EXTINF:-1,GR: Nova Sports 3 FHD [Live During Events Only]
-http://95.154.194.84:8000/14fIq4TDmE/GfCruyHz18/88632
-#EXTINF:-1,GR: Nova Sports 4 FHD [Live During Events Only]
-http://95.154.194.84:8000/14fIq4TDmE/GfCruyHz18/88631
-#EXTINF:-1,GR: Nova Sports 5 HD [Live During Events Only]
-http://95.154.194.84:8000/14fIq4TDmE/GfCruyHz18/88630
-#EXTINF:-1,GR: Nova Sports 24 FHD
-http://95.154.194.84:8000/14fIq4TDmE/GfCruyHz18/88636
+#EXTINF:-1 tvg-id="" tvg-name="GR | NOVA SPORT 2 HD" tvg-logo="" group-title="OTE_NOVA",GR | NOVA SPORT 2 HD
+http://carlo.kim:2015/murat2/12092019/2297
+#EXTINF:-1 tvg-id="" tvg-name="GR | NOVA SPORT 1 HD" tvg-logo="" group-title="OTE_NOVA",GR | NOVA SPORT 1 HD
+http://carlo.kim:2015/murat2/12092019/2296
+http://carlo.kim:2015/murat2/12092019/983
+#EXTINF:-1 tvg-id="" tvg-name="OTE | Cosmote Sport 7 HD" tvg-logo="" group-title="OTE_NOVA",OTE | Cosmote Sport 7 HD
+http://carlo.kim:2015/murat2/12092019/984
+#EXTINF:-1 tvg-id="" tvg-name="OTE | Cosmote Sport 6 HD" tvg-logo="" group-title="OTE_NOVA",OTE | Cosmote Sport 6 HD
+http://carlo.kim:2015/murat2/12092019/985
+#EXTINF:-1 tvg-id="" tvg-name="OTE | Cosmote Sport 5 HD" tvg-logo="" group-title="OTE_NOVA",OTE | Cosmote Sport 5 HD
+http://carlo.kim:2015/murat2/12092019/986
+#EXTINF:-1 tvg-id="" tvg-name="OTE | Cosmote Sport 4 HD" tvg-logo="" group-title="OTE_NOVA",OTE | Cosmote Sport 4 HD
+http://carlo.kim:2015/murat2/12092019/987
+#EXTINF:-1 tvg-id="" tvg-name="OTE | Cosmote Sport 3 HD" tvg-logo="" group-title="OTE_NOVA",OTE | Cosmote Sport 3 HD
+http://carlo.kim:2015/murat2/12092019/988
+#EXTINF:-1 tvg-id="" tvg-name="OTE | Cosmote Sport 2 HD" tvg-logo="" group-title="OTE_NOVA",OTE | Cosmote Sport 2 HD
+http://carlo.kim:2015/murat2/12092019/989
+#EXTINF:-1 tvg-id="" tvg-name="OTE | Cosmote Sport 1HD" tvg-logo="" group-title="OTE_NOVA",OTE | Cosmote Sport 1HD
+http://carlo.kim:2015/murat2/12092019/990
