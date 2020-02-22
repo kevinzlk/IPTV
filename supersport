@@ -6,6 +6,6 @@ https://mmm.sport7.biz/lba/MWVkNjEyOTg3N2NkMDE0ZjQ3NDdiMTFjMWNmNDZhM2U=/g8/alban
 #EXTINF:0,SuperSport 4
 https://mmm.sport7.biz/lba/MWVkNjEyOTg3N2NkMDE0ZjQ3NDdiMTFjMWNmNDZhM2U=/g10/super4sport.m3u8?token=MWVkNjEyOTg3N2NkMDE0ZjQ3NDdiMTFjMWNmNDZhM2U=&id=NGUwZDE0ZDAyYTQ4MThkNjc2ODhkMzk2NGJmOWQxNDQ=&vip=1575802652&dip=YjFhYmYzODUxNWRhNjhlNzFiZGY0NGM2ODQ3YzBjMGU=&pip=176.58.227.244&hip=ZDI4MTljYzU5MGViNTgzZTNkYzgyNTc3NzkwMGEwYzI=
 #EXTINF:-1,KORCA PLUS TV
-https://bit.ly/2UI5Jyu
+http://212.2.225.30:1935/live/albplus/playlist.m3u8
 #EXTINF:-1,KORCA PLUS 2
-http://32.shqiptv.org/korca/albplus2/index.m3u8
+http://212.2.225.30:1935/live/Korca-plus2/playlist.m3u8
