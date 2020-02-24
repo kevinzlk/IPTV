@@ -1,297 +1,453 @@
 #EXTM3U
-#EXTINF:-1,Rtk1
+#EXTINF:-1,Rtk 1
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rtk 2
+http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rtk 3
 http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rtv21
+#EXTINF:-1,Rtk 4
+http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rtv 21
 http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KtvHd
+#EXTINF:-1,ktv Hd
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KlanKosova
 http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T 7
-http://84.22.33.210/KlanKosova2/index.m3u8
+http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dukagjini
 http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtaNews
+#EXTINF:-1,TOP CHENNAL
+http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FRST Channel
+http://ott.artmott.com/1stChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,arta 
 http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rtv21M
-http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AljazziraBallkans
-http://ott.artmott.com/AljazziraBallkans/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTDocumentary
-http://ott.artmott.com/RTDocumentary/tracks-v1a1/mono.m3u8
-#EXTINF:-1,21popullorehd
-http://84.22.33.254/unicast.21popullorehd/video.m3u8
-#EXTINF:-1,DasmaTV
-http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,rtv21business
+#EXTINF:-1,TV Opinion
+http://ott.artmott.com/TVOpinion/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Prizereni
+http://ott.artmott.com/TVPrizereni/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Syri Vizion
+http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rtv 21 business
 http://84.22.33.254/unicast.rtv21business/video.m3u8
-#EXTINF:-1,21mix
-http://84.22.33.254/unicast.21mix/video.m3u8
-#EXTINF:-1,21plushd
+#EXTINF:-1,Rtv 21 M
+http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rtv 21 popullorehd
+http://84.22.33.254/unicast.21popullorehd/video.m3u8
+#EXTINF:-1,BBF
+http://84.22.33.254/unicast.bbf/video.m3u8
+#EXTINF:-1,euro Al
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1,folk plus
+http://84.22.33.254/unicast.folkplus/video.m3u8
+#EXTINF:-1,rtv 21 plus hd
 http://84.22.33.254/unicast.21plushd/video.m3u8
-#EXTINF:-1,RTS 1
-http://ott.artmott.com/RTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rtv 21 mix
+http://84.22.33.254/unicast.21mix/video.m3u8
+#EXTINF:-1,Alsa tM
+http://84.22.33.210/AlsatM/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Era TV
+http://ott.artmott.com/EraTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Aljazzira Ballkans
+http://ott.artmott.com/AljazziraBallkans/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PRVA
 http://ott.artmott.com/Prva/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTS 1
+http://ott.artmott.com/RTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PINK
 http://ott.artmott.com/Pink/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PINK 2
 http://ott.artmott.com/pink2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,B 92
 http://84.22.33.254/unicast.b92/tracks-v1a1/mono.m3u8
-#EXTINF:-1,rtcg
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
-#EXTINF:-1,hayatbosnia
-http://84.22.33.254/unicast.hayatbosnia/video.m3u8
 #EXTINF:-1,HRT 1
 http://ott.artmott.com/HRT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HRT3
+#EXTINF:-1,HRT 3
 http://ott.artmott.com/HRT3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,turbo chennal
-http://84.22.33.254/unicast.turbo/video.m3u8
-#EXTINF:-1,MtvKosova
-http://ott.artmott.com/MtvKosova/tracks-a1/mono.m3u8
-#EXTINF:-1,mtveurope
-http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVOpinion
-http://ott.artmott.com/TVOpinion/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AlsatM
-http://ott.artmott.com/AlsatM/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SyriVizion
-http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Opoja
-http://84.22.33.254/unicast.next/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtKino1
-http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtKino2
-http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtKino3
-http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtDoku1
-http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtDoku2
-http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTL HR
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1,RTCG SAT
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+#EXTINF:-1,hayat bosnia
+http://84.22.33.254/unicast.hayatbosnia/video.m3u8
+#EXTINF:-1,Atv Hd
+http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kanal D
+http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Tv Hd
+http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Prime
 http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Episode
-http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ar tKino 1
+http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Art Kino 2
+http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Art Kino 3
+http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ar tDoku 1
+http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Art Doku 2
+http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM AUTOR
+http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM ACSION
+http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM THRILLER
+http://84.22.33.210/thriller.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM STINET
+http://84.22.33.210/stinet.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM NJE
+http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM DY
+http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM FAMILY
+http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM KOMEDY
+http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILM DRAME
+http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Action
+http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Fantasy
+http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Life
+http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring 3Pus
+http://ott.artmott.com/3Pus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Shqip
+http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Comedy
+http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Super
+http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring JollyHD
+http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Smile
+http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Living
+http://ott.artmott.com/Living/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring World
+http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring History
+http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Planet
+http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EXS HISTORI
+http://84.22.33.210/histori.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EXS SHKRNCE
+http://84.22.33.210/shkence.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EXS NATYRA
+http://84.22.33.210/natyra.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tring international
+http://ott.artmott.com/tringinternational/tracks-v1a1/mono.m3u8
+#EXTINF:-1,E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DIVA
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sci-fi
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CBS-Reality
 http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EuroChannel
-http://84.22.33.218/EuroChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EnglishClubChannel
-http://84.22.33.218/EnglishClubChannel/tracks-a2/mono.m3u8
+#EXTINF:-1,Sundance-TV
+http://ott.artmott.com/Sundance-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Euro Channel
+http://84.22.33.214/EuroChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,English ClubChannel
+http://84.22.33.218/EnglishClubChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Discovery CH
+http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ID
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Animal Planet
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1,History Channel
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CrimeAnd Investigatio
+http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TLC
+http://ott.artmott.com/TLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Episode
+http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
 #EXTINF:-1,gurmania
 http://ott.artmott.com/gurmania/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DIVA
-http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,E!
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EuroChannel
-http://84.22.33.218/EuroChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FIGHTBOX
+#EXTINF:-1,Beat
+http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Klan Plus
+http://84.22.33.218/TVKlanPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,nba tv
+http://84.22.33.210/nbatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Mitrovica
+http://ott.artmott.com/TVMitrovica/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ISTOGU
+http://84.22.46.172:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ALB UK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1,alb_culture
+http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
+#EXTINF:-1,Vizion Pus
+http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tv Klan
+http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
+#EXTINF:-1,euro sport 1
+http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,outdoor channel
+http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tring Sport News
+http://ott.artmott.com/TringSportNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FIGHT BOX
 http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FILMBOXEXTRA
+#EXTINF:-1,FILM BOX EXTRA
 http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FILMBOXPLUS
+#EXTINF:-1,FILM BOX PLUS
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FILMBOXARTHOUSE
+#EXTINF:-1,FILM BOX ARTHOUSE
 http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FAST&FUNBOX
-http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DOCUBOX
+#EXTINF:-1,FASHION BOX
+http://ott.artmott.com/FASHIONBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DOCU BOX
 http://ott.artmott.com/DOCUBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FAST AND FUNBOX
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FashionTV
+http://ott.artmott.com/FashionTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,7 HD
 http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SkyStar
-http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKYACTION
+#EXTINF:-1,SKY ACTION
 http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKYCOMEDY
-http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKYMAX
+#EXTINF:-1,SKY MAX
 http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SKYShqip
+#EXTINF:-1,SKY Star
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SKY DRAME
+http://flusrv2.artmotion.net/unicast.skydrame/index.m3u8
+#EXTINF:-1,SKY COMEDY
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SKY Shqip
 http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Suite
 http://ott.artmott.com/Suite/tracks-v1a1/mono.m3u8
-#EXTINF:-1,unicast.skydrame
-http://flusrv2.artmotion.net/unicast.skydrame/index.m3u8
-#EXTINF:-1,pulstv
-http://84.22.33.254/unicast.pulstv/video.m3u8
-#EXTINF:-1,kim
-http://84.22.33.254/unicast.kim/video.m3u8
-#EXTINF:-1,kiss
-http://84.22.33.254/kiss/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TRT 1
-http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AtvHd
+#EXTINF:-1,premium
+http://84.22.33.238/unicast.premium/mono.m3u8
+#EXTINF:-1,Atv Hd
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KanalD
+#EXTINF:-1,Kanal D
 http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,StarTvHd
+#EXTINF:-1,Star Tv Hd
 http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,foxturkey
-http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ShowTv
+#EXTINF:-1,tv 8
+http://84.22.33.238/unicast.tv8/mono.m3u8
+#EXTINF:-1,Show Tv
 http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sat1
+#EXTINF:-1,trt 1
+http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRT world
+http://84.22.33.214/TRTworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1,fox turkey
+http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTL
+http://ott.artmott.com/RTL/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rtl 2
+http://ott.artmott.com/Rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Prosi ben
+http://ott.artmott.com/Prosiben/tracks-v1a1/mono.m3u8
+#EXTINF:-1,pro 7
+http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sat 1
 http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sat1Gold
 http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VOX
 http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTL
-http://ott.artmott.com/RTL/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTL 2
-http://ott.artmott.com/Rtl2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Prosiben
-http://ott.artmott.com/Prosiben/tracks-v1a1/mono.m3u8
-#EXTINF:-1,pro7Maxx
-http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SuperRTL
+#EXTINF:-1,SUPER RTL
 http://ott.artmott.com/SuperRTL/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ARTE
+#EXTINF:-1,France 2
+http://ott.artmott.com/France2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tv 5 Monde
+http://ott.artmott.com/Tv5Monde/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Arte
 http://ott.artmott.com/Arte/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TRTworld
-http://84.22.33.218/TRTworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringAction
-http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringFantasy
-http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringLife
-http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tring3Pus
-http://ott.artmott.com/3Pus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringSuper
-http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringShqip
-http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringComedy
-http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,JollyHD
-http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Smile
-http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringWorld
-http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringHistory
-http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringPlanet
-http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tringinternational
-http://ott.artmott.com/tringinternational/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DiscoveryCH
-http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ID
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TLC
-http://ott.artmott.com/TLC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AnimalPlanet
-http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HistoryChannel
-http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CrimeAndInvestigation
-http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kanali7
+#EXTINF:-1,rai 1
+http://ott.artmott.com/Rai1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rai 2
+http://ott.artmott.com/Rai2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rai 3
+http://ott.artmott.com/rai3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,abc newsott
+http://flusrv2.artmotion.net/abcnewsott/index.m3u8
+#EXTINF:-1,fax news
+http://flusrv2.artmotion.net/unicast.faxnews/index.m3u8
+#EXTINF:-1,Arta News
+http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KANALI 7
 http://ott.artmott.com/Kanali7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zeri
+#EXTINF:-1,ZERI
 http://ott.artmott.com/Zeri/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVKlanPlus
-http://84.22.33.218/TVKlanPlus/tracks-a2/mono.m3u8
-#EXTINF:-1,tvKlan
-http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
-#EXTINF:-1,VizionPus
-http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rrokum
-http://ott.artmott.com/Rrokum/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Travelingo
-http://ott.artmott.com/Travelingo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV-Liria
-http://ott.artmott.com/TV-Liria/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ShenjaTV
-http://ott.artmott.com/ShenjaTV/index.m3u8
-#EXTINF:-1,EraTV
-http://ott.artmott.com/EraTV/index.m3u8
-#EXTINF:-1,21Junior
-http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVMitrovica
-http://ott.artmott.com/TVMitrovica/tracks-v1a1/mono.m3u8
 #EXTINF:-1,bbcworld
 http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CNN
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
-#EXTINF:-1,1stChannel
-http://ott.artmott.com/1stChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVPrizereni
-http://ott.artmott.com/TVPrizereni/index.m3u8
-#EXTINF:-1,TV-Besa
-http://vod.artmott.com/TV-Besa/index.m3u8
-#EXTINF:-1,tvvali
-http://vod.artmott.com/tvvali/index.m3u8
-#EXTINF:-1,TV-llapi
-http://vod.artmott.com/TV-llapi/index.m3u8
-#EXTINF:-1,Beat
-http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Euro News
+http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DW
+http://ott.artmott.com/DW/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AlJazeeraEnglis
+http://84.22.33.254/unicast.AlJazeeraEnglish/mono.m3u8
+#EXTINF:-1,rainews
+http://84.22.33.254/unicast.rainews/video.m3u8
+#EXTINF:-1,RT Documentary
+http://ott.artmott.com/RTDocumentary/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Shenja TV
+http://ott.artmott.com/ShenjaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Besa
+http://vod.artmott.com/TV-Besa/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Dielli
+http://ott.artmott.com/TVDielli/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Dasma TV
+http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tv vali
+http://vod.artmott.com/tvvali/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV llapi
+http://vod.artmott.com/TV-llapi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Liria
+http://ott.artmott.com/TV-Liria/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rrokum
+http://ott.artmott.com/Rrokum/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvsh
+http://84.22.33.254/unicast_tvsh/mono.m3u8
+#EXTINF:-1,Report TV
+http://84.22.33.218/ReportTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Trave lingo
+http://ott.artmott.com/Travelingo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Start TV Drenas
+http://vod.artmott.com/Start-TV-Drenas-OTT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,outdoor channel
+http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTV 21 Junior
+http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Slovenia 1
+http://vod.artmott.com/Slovenia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kanali 6
+http://vod.artmott.com/Kanali6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,mtv europe
+http://84.22.33.254/unicast.mtveurope/tracks-a2/mono.m3u8
+#EXTINF:-1,luxe tv
+http://84.22.33.254/unicast.luxetv/video.m3u8
+#EXTINF:-1,turbo Chennal
+http://84.22.33.254/unicast.turbo/video.m3u8
+#EXTINF:-1,tune box
+http://84.22.33.254/unicast.tunebox/video.m3u8
+#EXTINF:-1,musiq 1
+http://84.22.33.254/unicast.musiq1/video.m3u8
+#EXTINF:-1,CLUB TV
+http://84.22.33.254/unicast.clubtv/video.m3u8
+#EXTINF:-1,KUTIA TV HD
+http://84.22.33.254/unicast.kutiatvhd/video.m3u8
+#EXTINF:-1,PLUS TV
+http://84.22.33.254/unicast.pulstv/video.m3u8
+#EXTINF:-1,kim
+http://84.22.33.254/unicast.kim/video.m3u8
+#EXTINF:-1,positive gold
+http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
+#EXTINF:-1,kiss
+http://84.22.33.254/kiss/tracks-v1a1/mono.m3u8
+#EXTINF:-1,zico
+http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
+#EXTINF:-1,next
+http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
+#EXTINF:-1,Mtv Kosova
+http://ott.artmott.com/MtvKosova/tracks-a1/mono.m3u8
+#EXTINF:-1,Peace Tv
+http://ott.artmott.com/PeaceTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CLICK
+http://84.22.33.254/unicast.click/video.m3u8
+#EXTINF:-1,Muse
+http://ott.artmott.com/Muse/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TOP NEWS
+http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cartoonnet
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DisneyChannel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nickelodeon
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1,jimjam
-http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+#EXTINF:-1,prince kids
+http://ott.artmott.com/princekids/video.m3u8
 #EXTINF:-1,pikaboo
 http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,princekids
-http://ott.artmott.com/princekids/video.m3u8
+#EXTINF:-1,vavoom
+http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CUFO
+http://84.22.33.210/cufo.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JUNIOR
+http://84.22.33.210/junior.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringKids
 http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringTring
 http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TipTV
 http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,vavoom
-http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rrokum
-http://ott.artmott.com/Rrokum/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVSH
-http://84.22.33.254/unicast_tvsh/mono.m3u
-#EXTINF:-1,tvKlan
-http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTK 2
-http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTK 4
-http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVDielli
-http://ott.artmott.com/TVDielli/index.m3u8
-#EXTINF:-1,Start-TV-Drenas-OTT
-http://vod.artmott.com/Start-TV-Drenas-OTT/index.m3u8
-#EXTINF:-1,ArtSport1
+#EXTINF:-1,jimjam
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ducktv
+http://ott.artmott.com/ducktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER SPORT 1
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER SPORT 2
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER SPORT 3
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER SPORT 4
+http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER SPORT 5
+http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER SPORT 6
+http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER SPORT 7
+http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Art Sport 1
 http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtSport2
+#EXTINF:-1,Art Sport 2
 http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtSport3
+#EXTINF:-1,Art Sport 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArenaSport1MW
+#EXTINF:-1,Arena Sport 1
 http://ott.artmott.com:90/ArenaSport1MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArenaSport2OTT
+#EXTINF:-1,Arena Sport 2
 http://84.22.33.218/ArenaSport2OTT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtSport3
-http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArenaSport4OTT
+#EXTINF:-1,Arena Sport 3
+http://84.22.33.218/ArenaSport3OTT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Arena Sport 4
 http://84.22.33.218/ArenaSport4OTT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArenaSport5MW
+#EXTINF:-1,Arena Sport 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1,eurosport1
-http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,extremesport
-http://ott.artmott.com/extremesport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,outdoorchannel
-http://ott.artmott.com/outdoorchannel/index.m3u8
+#EXTINF:-1,ArtmotionInfo
+http://ott.artmott.com/ArtmotionInfo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rtsh_1
+http://79.106.48.2/live/rtsh_1mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_2
+http://79.106.48.2/live/rtsh_2mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_3
+http://79.106.48.2/live/rtsh_3mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_film
+http://79.106.48.2/live/rtsh_film_mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_shqip
+http://79.106.48.2/live/rtsh_shqip_mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_plus
+http://79.106.48.2/live/rtsh_plus_mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_muzike
+http://79.106.48.2/live/rtsh_muzike_mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_24
+http://79.106.48.2/live/rtsh_24_mob_p2/playlist.m3u8
+#EXTINF:-1,rtsh_sport
+http://79.106.48.2/live/rtsh_sport_mob_p2/playlist.m3u8
