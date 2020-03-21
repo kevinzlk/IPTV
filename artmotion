@@ -131,23 +131,23 @@ http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Art Doku 2
 http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="https://tinyurl.com/tjmtlgm",Film Autor 
+#EXTINF:-1 tvg-name="Film Autor" tvg-logo="https://tinyurl.com/tjmtlgm",Film Autor 
 http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Aksion.png",Film Aksion 
+#EXTINF:-1 tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film Aksion.png",Film Aksion 
 http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Thriller.png",Film Thriller
+#EXTINF:-1 tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film Thriller.png",
 http://84.22.33.210/thriller.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Stinet.png",Film Stinet
+#EXTINF:-1 tvg-name="Film Stinet" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png",Film Stinet
 http://84.22.33.210/stinet.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Nje HD.png",Film Nje 
+#EXTINF:-1 tvg-name="Film Nje" tvg-logo="http://www.albepg.com/tvlogi/Film Nje HD.png",Film Nje 
 http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Dy HD.png",Film Dy 
+#EXTINF:-1 tvg-name="Film Dy" tvg-logo="http://www.albepg.com/tvlogi/Film Dy HD.png",Film Dy 
 http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="https://mobile-api.tvim.tv/images/channels/300x160px/FAMILY.png",Film Family 
+#EXTINF:-1 tvg-name="Film Family" tvg-logo="https://mobile-api.tvim.tv/images/channels/300x160px/FAMILY.png",Film Family 
 http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Komedi.png",Film Komedi 
+#EXTINF:-1 tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film Komedi.png",Film Komedi 
 http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Drame.png",Film Drame 
+#EXTINF:-1 tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film Drame.png",Film Drame 
 http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tring Action
 http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
