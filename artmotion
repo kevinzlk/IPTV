@@ -31,6 +31,10 @@ http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TOP NEWS
 http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KORCA PLUS TV
+http://212.2.225.30:1935/live/albplus/playlist.m3u8
+#EXTINF:-1,KORCA PLUS 2
+http://212.2.225.30:1935/live/Korca-plus2/playlist.m3u8
 #EXTINF:-1,KTV HD
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Klan Plus
