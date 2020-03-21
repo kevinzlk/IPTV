@@ -79,6 +79,8 @@ http://84.22.33.254/unicast.21mix/video.m3u8
 http://84.22.33.210/AlsatM/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Era TV
 http://ott.artmott.com/EraTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Artmotion Info
+http://ott.artmott.com/ArtmotionInfo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Aljazzira Ballkans
 http://ott.artmott.com/AljazziraBallkans/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PRVA
@@ -129,23 +131,23 @@ http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Art Doku 2
 http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Autor tvg-logo="https://tinyurl.com/tjmtlgm"
+#EXTINF:-1, tvg-logo="https://tinyurl.com/tjmtlgm",Film Autor 
 http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Aksion tvg-logo="http://www.albepg.com/tvlogi/Film Aksion.png"
+#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Aksion.png",Film Aksion 
 http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Thriller tvg-logo="http://www.albepg.com/tvlogi/Film Thriller.png"
+#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Thriller.png",Film Thriller
 http://84.22.33.210/thriller.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Stinet tvg-logo="http://www.albepg.com/tvlogi/Stinet.png"
+#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Stinet.png",Film Stinet
 http://84.22.33.210/stinet.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Nje tvg-logo="http://www.albepg.com/tvlogi/Film Nje HD.png"
+#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Nje HD.png",Film Nje 
 http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Dy tvg-logo="http://www.albepg.com/tvlogi/Film Dy HD.png"
+#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Dy HD.png",Film Dy 
 http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Family tvg-logo="https://mobile-api.tvim.tv/images/channels/300x160px/FAMILY.png"
+#EXTINF:-1, tvg-logo="https://mobile-api.tvim.tv/images/channels/300x160px/FAMILY.png",Film Family 
 http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Komedi tvg-logo="http://www.albepg.com/tvlogi/Film Komedi.png"
+#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Komedi.png",Film Komedi 
 http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Drame tvg-logo="http://www.albepg.com/tvlogi/Film Drame.png"
+#EXTINF:-1, tvg-logo="http://www.albepg.com/tvlogi/Film Drame.png",Film Drame 
 http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tring Action
 http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
@@ -167,7 +169,6 @@ http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tring Living
 http://ott.artmott.com/Living/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Tring World
 http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tring History
@@ -461,5 +462,4 @@ http://84.22.33.218/ArenaSport3OTT/tracks-v1a1/mono.m3u8
 http://84.22.33.218/ArenaSport4OTT/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Arena Sport 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Artmotion Info
-http://ott.artmott.com/ArtmotionInfo/tracks-v1a1/mono.m3u8
+
