@@ -7,13 +7,13 @@ http://79.106.48.2/live/rtsh_1mob_p2/playlist.m3u8
 http://79.106.48.2/live/rtsh_2mob_p2/playlist.m3u8
 #EXTINF:-1,RTSH 3
 http://79.106.48.2/live/rtsh_3mob_p2/playlist.m3u8
-#EXTINF:-1,RTSH film
+#EXTINF:-1,RTSH Film
 http://79.106.48.2/live/rtsh_film_mob_p2/playlist.m3u8
-#EXTINF:-1,RTSH shqip
+#EXTINF:-1,RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_mob_p2/playlist.m3u8
-#EXTINF:-1,RTSH plus
+#EXTINF:-1,RTSH Plus
 http://79.106.48.2/live/rtsh_plus_mob_p2/playlist.m3u8
-#EXTINF:-1,RTSH muzike
+#EXTINF:-1,RTSH Muzike
 http://79.106.48.2/live/rtsh_muzike_mob_p2/playlist.m3u8
 #EXTINF:-1,RTSH 24
 http://79.106.48.2/live/rtsh_24_mob_p2/playlist.m3u8
@@ -426,17 +426,17 @@ http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ducktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Sport
-#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SSNEWS.png",SUPER SPORT 1
+#EXTINF:-1 tvg-name="Super Sport 1" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SSNEWS.png",SUPER SPORT 1
 http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS2.png",SUPER SPORT 2
+#EXTINF:-1 tvg-name="Super Sport 2" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS2.png",SUPER SPORT 2
 http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS3.png",SUPER SPORT 3
+#EXTINF:-1 tvg-name="Super Sport 3" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS3.png",SUPER SPORT 3
 http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS4.png",SUPER SPORT 4 
+#EXTINF:-1 tvg-name="Super Sport 4" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS4.png",SUPER SPORT 4 
 http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS5.png",SUPER SPORT 5
+#EXTINF:-1 tvg-name="Super Sport 5" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS5.png",SUPER SPORT 5
 http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS6.png",SUPER SPORT 6
+#EXTINF:-1 tvg-name="Super sport 6" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS6.png",SUPER SPORT 6
 http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SUPER SPORT 7 
 http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
@@ -462,4 +462,3 @@ http://84.22.33.218/ArenaSport3OTT/tracks-v1a1/mono.m3u8
 http://84.22.33.218/ArenaSport4OTT/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Arena Sport 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-
