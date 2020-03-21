@@ -135,7 +135,7 @@ http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
 http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film Aksion.png",Film Aksion 
 http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film Thriller.png",
+#EXTINF:-1 tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film Thriller.png",Film Thriller
 http://84.22.33.210/thriller.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Film Stinet" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png",Film Stinet
 http://84.22.33.210/stinet.ott/tracks-v1a1/mono.m3u8
@@ -426,17 +426,17 @@ http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ducktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Sport
-#EXTINF:-1,SUPER SPORT 1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SSNEWS.png"
+#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SSNEWS.png",SUPER SPORT 1
 http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SUPER SPORT 2 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS2.png"
+#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS2.png",SUPER SPORT 2
 http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SUPER SPORT 3 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS3.png"
+#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS3.png",SUPER SPORT 3
 http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SUPER SPORT 4 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS4.png"
+#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS4.png",SUPER SPORT 4 
 http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SUPER SPORT 5 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS5.png"
+#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS5.png",SUPER SPORT 5
 http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SUPER SPORT 6 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS6.png"
+#EXTINF:-1 tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS6.png",SUPER SPORT 6
 http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SUPER SPORT 7 
 http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
