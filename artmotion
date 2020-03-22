@@ -201,7 +201,7 @@ http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",SKY ACTION
 http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kinema"SKY MAX
+#EXTINF:-1 group-title="Kinema",SKY MAX
 http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",SKY Star
 http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
