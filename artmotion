@@ -357,7 +357,7 @@ http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 http://213.163.115.221:8020/play/a06u
 #EXTINF:-1 group-title="Sport",Eurosport 2
 http://213.163.115.221:8020/play/a01z
-#EXTINF:-1 group-title="Sport",K Sport 1 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pasteboard.co/J0VCFUd.png",K Sport 1 HD
 http://213.163.115.221:8020/play/a0e8
 #EXTINF:-1 group-title="Sport",K Sport 2
 http://213.163.115.221:8020/play/a0fq
