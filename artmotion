@@ -351,11 +351,11 @@ http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
 http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Sport",EuroSport 1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png",EuroSport 1
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport",Eurosport 1 (2nd option)
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png",Eurosport 1 (2nd option)
 http://213.163.115.221:8020/play/a06u
-#EXTINF:-1 group-title="Sport",Eurosport 2
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.qmde.net/www.quotenmeter.de/pics/eurosport2/logo/eurosport2_2015_ox__W660xh0.jpg",Eurosport 2
 http://213.163.115.221:8020/play/a01z
 #EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png",K Sport 1 HD
 http://213.163.115.221:8020/play/a0e8
