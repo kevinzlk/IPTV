@@ -1,22 +1,24 @@
 #EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
 
 #EXTINF:-1,Kanalet RTSH
-#EXTINF:-1 group-title="Kanalet RTSH",RTSH 1
-http://79.106.48.2/live/rtsh_1mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Kanalet RTSH", RTSH 2
-http://79.106.48.2/live/rtsh_2mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Kanalet RTSH",RTSH 3
-http://79.106.48.2/live/rtsh_3mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Kanalet RTSH",RTSH film
-http://79.106.48.2/live/rtsh_film_mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Kanalet RTSH",RTSH shqip
-http://79.106.48.2/live/rtsh_shqip_mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Kanalet RTSH",RTSH plus
-http://79.106.48.2/live/rtsh_plus_mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Kanalet RTSH",RTSH muzike
-http://79.106.48.2/live/rtsh_muzike_mob_p2/playlist.m3u8
-#EXTINF:-1 group-title="Kanalet RTSH",RTSH 24
-http://79.106.48.2/live/rtsh_24_mob_p2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="Kanalet RTSH",RTSH 1 HD
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.imgur.com/xWigxIX.png" group-title="Kanalet RTSH",RTSH 2 HD
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlYvCID.png"  group-title="Kanalet RTSH",RTSH 24
+http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45JzrHL.png"  group-title="Kanalet RTSH",RTSH Femije
+http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvqV5C1.png"  group-title="Kanalet RTSH",RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9ZAhXA.png"  group-title="Kanalet RTSH",RTSH Muzike
+http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IN5rJ2J.png"  group-title="Kanalet RTSH",RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHG6Rve.png"  group-title="Kanalet RTSH",RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHG6Rve.png"  group-title="Kanalet RTSH",RTSH Shqip (2)
+http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
 
 #EXTINF:-1, Gjenerale + Lajme + Lokale
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",RTK 1
