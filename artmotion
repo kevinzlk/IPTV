@@ -335,13 +335,13 @@ http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ducktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Sport
-#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 1" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SSNEWS.png",SUPER SPORT 1
+#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png",SUPER SPORT 1
 http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 2" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS2.png",SUPER SPORT 2
+#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png",SUPER SPORT 2
 http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 3" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS3.png",SUPER SPORT 3
+#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png",SUPER SPORT 3
 http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 4" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS4.png",SUPER SPORT 4 
+#EXTINF:-1 group-title="Sport" tvg-name="Super Sport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png",SUPER SPORT 4 
 http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport" tvg-name="Super Sport 5" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS5.png",SUPER SPORT 5
 http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
@@ -357,15 +357,15 @@ http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 http://213.163.115.221:8020/play/a06u
 #EXTINF:-1 group-title="Sport",Eurosport 2
 http://213.163.115.221:8020/play/a01z
-#EXTINF:-1 group-title="Sport" tvg-logo="https://pasteboard.co/J0VCFUd.png",K Sport 1 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png",K Sport 1 HD
 http://213.163.115.221:8020/play/a0e8
-#EXTINF:-1 group-title="Sport",K Sport 2
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png",K Sport 2
 http://213.163.115.221:8020/play/a0fq
-#EXTINF:-1 group-title="Sport",K Sport 2 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png",K Sport 2 HD
 http://213.163.115.221:8020/play/a004
-#EXTINF:-1 group-title="Sport",K Sport 3 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png",K Sport 3 HD
 http://213.163.115.221:8020/play/a005
-#EXTINF:-1 group-title="Sport",K Sport 4 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png"",K Sport 4 HD
 http://213.163.115.221:8020/play/a0e9
 #EXTINF:-1 group-title="Sport",K Sport 5 HD
 http://213.163.115.221:8020/play/a0ey
