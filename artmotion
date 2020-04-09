@@ -29,7 +29,7 @@ http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",RTK 4
 http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://commons.wikimedia.org/wiki/File:Top_Channel.svg",TOP CHANNEL
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://images.app.goo.gl/wt5Sd4CE5RMmxwJf6",TOP CHANNEL
 http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/top_news.jpg",TOP NEWS
 http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
