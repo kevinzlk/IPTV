@@ -203,9 +203,9 @@ http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
 http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema" tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film Drame.png",Film Drame 
 http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",FILM BOX EXTRA
+#EXTINF:-1 group-title="Kinema",FILM BOX EXTRA
 http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",FILM BOX PLUS
+#EXTINF:-1 group-title="Kinema",FILM BOX PLUS
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",7 HD
 http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
