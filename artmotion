@@ -280,12 +280,6 @@ http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dokumentare",ALB Culture
 http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
-#EXTINF:-1 group-title="Dokumentare",sci-fi
-http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",CBS-Reality
-http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",ALB Culture
-http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
 #EXTINF:-1 group-title="Dokumentare",Outdoor channel
 http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dokumentare",FASHION BOX
