@@ -199,6 +199,10 @@ http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
 http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema" tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film Drame.png",Film Drame 
 http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Dokumentare",FILM BOX EXTRA
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Dokumentare",FILM BOX PLUS
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",7 HD
 http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",SKY ACTION
@@ -282,22 +286,12 @@ http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dokumentare",ALB Culture
 http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
-#EXTINF:-1 group-title="Dokumentare",outdoor channel
+#EXTINF:-1 group-title="Dokumentare",Outdoor channel
 http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",FIGHT BOX
-http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",FILM BOX EXTRA
-http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",FILM BOX PLUS
-http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",FILM BOX ARTHOUSE
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dokumentare",FASHION BOX
 http://ott.artmott.com/FASHIONBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dokumentare",DOCU BOX
 http://ott.artmott.com/DOCUBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dokumentare",FAST AND FUNBOX
-http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dokumentare",FashionTV
 http://ott.artmott.com/FashionTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dokumentare",outdoor channel
@@ -307,7 +301,7 @@ http://ott.artmott.com/Travelingo/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Femije
-#EXTINF:-1 group-title="Femije",Cartoonnet
+#EXTINF:-1 group-title="Femije",Cartoon net
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Femije",DisneyChannel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
@@ -371,6 +365,10 @@ http://213.163.115.221:8020/play/a005
 http://213.163.115.221:8020/play/a0e9
 #EXTINF:-1 group-title="Sport",K Sport 5 HD
 http://213.163.115.221:8020/play/a0ey
+#EXTINF:-1 group-title="Sport",FIGHT BOX
+http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",FAST AND FUNBOX
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport",Tring Sport News
 http://ott.artmott.com/TringSportNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport",Art Sport 1
@@ -408,6 +406,8 @@ http://84.22.33.254/unicast.clubtv/video.m3u8
 http://84.22.33.254/unicast.turbo/video.m3u8
 #EXTINF:-1 group-title="Muzike",mtv europe
 http://84.22.33.254/unicast.mtveurope/tracks-a2/mono.m3u8
+#EXTINF:-1 group-title="Mzuzike",FILM BOX ARTHOUSE
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Te huaja
