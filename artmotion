@@ -29,7 +29,7 @@ http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",RTK 4
 http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://images.app.goo.gl/wt5Sd4CE5RMmxwJf6",TOP CHANNEL
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://commons.wikimedia.org/wiki/File:Top_Channel.svg",TOP CHANNEL
 http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/top_news.jpg",TOP NEWS
 http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
@@ -61,9 +61,9 @@ http://ott.artmott.com/TVOpinion/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/TVPrizereni/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Syri Vizion
 http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/8209258_ico.png?ts=1586434216",KORCA PLUS TV
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://i.ibb.co/xH10SnY/92492178-516810659011604-7207581947395047424-n.png",KORCA PLUS TV
 http://212.2.225.30:1935/live/albplus/playlist.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",KORCA PLUS 2
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://i.ibb.co/DY0rrLL/92664491-654181765404323-7847195323293237248-n.png",KORCA PLUS 2
 http://212.2.225.30:1935/live/Korca-plus2/playlist.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",rtv 21 business
 http://84.22.33.254/unicast.rtv21business/video.m3u8
