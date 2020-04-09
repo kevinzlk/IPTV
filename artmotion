@@ -690,7 +690,7 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="Gjermane",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",Sophia TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Gjermane",Sophia TV
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="" group-title="Gjermane",SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
