@@ -29,13 +29,13 @@ http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",RTK 4
 http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP CHANNEL
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://commons.wikimedia.org/wiki/File:Top_Channel.svg",TOP CHANNEL
 http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP NEWS
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/top_news.jpg",TOP NEWS
 http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TV Klan
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://commons.wikimedia.org/wiki/File:TV_Klan.svg",TV Klan
 http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Vizion Plus
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://commons.wikimedia.org/wiki/File:Vizion_Plus.svg",Vizion Plus
 http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",KTV HD
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
@@ -53,6 +53,8 @@ http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/1stChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Arta 
 http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gm5HRzC.png" group-title="Gjenerale + Lajme + Lokale",Report TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TV Opinion
 http://ott.artmott.com/TVOpinion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TV Prizereni
@@ -105,8 +107,10 @@ http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Arte
 http://ott.artmott.com/Arte/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",ABC News
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://commons.wikimedia.org/wiki/File:ABC_News_(Albania).svg",ABC News
 http://flusrv2.artmotion.net/abcnewsott/index.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-news-24-3727.jpg" group-title="Gjenerale + Lajme + Lokale",News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",fax news
 http://flusrv2.artmotion.net/unicast.faxnews/index.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Arta News
@@ -307,17 +311,17 @@ http://ott.artmott.com/princekids/video.m3u8
 http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Femije",vavoom
 http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Femije",CUFO
+#EXTINF:-1 group-title="Femije" tvg-logo="https://commons.wikimedia.org/wiki/File:Cufo_TV.png",CUFO
 http://84.22.33.210/cufo.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Femije",JUNIOR
 http://84.22.33.210/junior.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Femije",Tring Kids
 http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Femije",Tring Tring
+#EXTINF:-1 group-title="Femije" tvg-logo="https://commons.wikimedia.org/wiki/File:Tring_Tring_TV.png",Tring Tring
 http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTV 21 Junior
 http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Femije",TipTV
+#EXTINF:-1 group-title="Femije" tvg-logo="https://commons.wikimedia.org/wiki/File:Tip_TV_alb.png",TipTV
 http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Femije",jimjam
 http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
@@ -363,7 +367,7 @@ http://213.163.115.221:8020/play/a0ey
 http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport",FAST AND FUNBOX
 http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport",Tring Sport News
+#EXTINF:-1 group-title="Sport" tvg-logo="https://commons.wikimedia.org/wiki/File:TringSportHD2010.jpg",Tring Sport News
 http://ott.artmott.com/TringSportNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport",Art Sport 1
 http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
