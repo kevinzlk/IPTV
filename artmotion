@@ -29,10 +29,16 @@ http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",RTK 4
 http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Rtv 21
-http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP CHANNEL
+http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP NEWS
 http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP NEWS (2nd option)
+https://stream-06.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irVIS5pYImBv4jEJkkt5C90s)/dm/3/x6inuzo/s/live-2.m3u8
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TV Klan
+http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Vizion Plus
+http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",KTV HD
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TV Klan Plus
@@ -41,14 +47,10 @@ http://84.22.33.218/TVKlanPlus/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",T 7
 http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Rtv 21
+http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Dukagjini
 http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP CHANNEL
-http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Vizion Pus
-http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TV Klan
-http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",FIRST Channel
 http://ott.artmott.com/1stChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Arta 
