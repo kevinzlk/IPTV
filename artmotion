@@ -33,8 +33,6 @@ http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
 http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP NEWS
 http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TOP NEWS (2nd option)
-https://stream-06.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irVIS5pYImBv4jEJkkt5C90s)/dm/3/x6inuzo/s/live-2.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",TV Klan
 http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Vizion Plus
