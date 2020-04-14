@@ -758,6 +758,8 @@ https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
 
 #EXTINF:-1,Te huaja
+#EXTINF:-1 group-title="Te huaja,Sky News English
+https://youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 group-title="Te huaja",Slovenia 1
 http://vod.artmott.com/Slovenia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Te huaja",AlJazeeraEnglis
