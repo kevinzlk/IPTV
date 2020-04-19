@@ -903,3 +903,12 @@ http://174.36.206.197:8038/
 http://93.190.141.15:7025/live
 #EXTINF:0 group-title="Radio",RADIO 21
 http://84.22.44.247:1935/live/radio.stream/playlist.m3u8
+
+
+#EXTINF:0,Dokumentare Youtube
+#EXTINF:0 group-title="Dokumentare Youtube",Our Planet | Frozen Worlds | FULL EPISODE | Netflix
+https://www.youtube.com/watch?v=cTQ3Ko9ZKg8
+#EXTINF:0 group-title="Dokumentare Youtube",Our Planet | Forests | FULL EPISODE | Netflix
+https://www.youtube.com/watch?v=JkaxUblCGz0&t=74s
+#EXTINF:0 group-title="Dokumentare Youtube",Our Planet | Planet Diversity | FULL EPISODE | Netflix
+https://www.youtube.com/watch?v=GfO-3Oir-qM
