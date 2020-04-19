@@ -71,6 +71,8 @@ http://84.22.33.254/unicast.rtv21business/video.m3u8
 http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",BBF
 http://84.22.33.254/unicast.bbf/video.m3u8
+#EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Tirana TV
+http://5.135.92.133:52841/out/u/218_1.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",Euro AL
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",rtv 21 plus hd
@@ -227,7 +229,7 @@ http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",Tring Life
 http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kinema",Tring 3Pus
+#EXTINF:-1 group-title="Kinema",Tring 3Plus
 http://ott.artmott.com/3Pus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",Tring Shqip
 http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
@@ -235,7 +237,7 @@ http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",Tring Super
 http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kinema",Tring JollyHD
+#EXTINF:-1 group-title="Kinema",Tring Jolly HD
 http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kinema",Tring Smile
 http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
@@ -359,7 +361,7 @@ http://213.163.115.221:8020/play/a0fq
 http://213.163.115.221:8020/play/a004
 #EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png",K Sport 3 HD
 http://213.163.115.221:8020/play/a005
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png",K Sport 4 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png"",K Sport 4 HD
 http://213.163.115.221:8020/play/a0e9
 #EXTINF:-1 group-title="Sport",K Sport 5 HD
 http://213.163.115.221:8020/play/a0ey
@@ -404,7 +406,7 @@ http://84.22.33.254/unicast.clubtv/video.m3u8
 http://84.22.33.254/unicast.turbo/video.m3u8
 #EXTINF:-1 group-title="Muzike",mtv europe
 http://84.22.33.254/unicast.mtveurope/tracks-a2/mono.m3u8
-#EXTINF:-1 group-title="Muzike",FILM BOX ARTHOUSE
+#EXTINF:-1 group-title="Mzuzike",FILM BOX ARTHOUSE
 http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 
 
@@ -418,10 +420,6 @@ https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE"  tvg-logo="https://i.imgur.com/tupATym.png" group-title="Gjermane",Augsburg TV
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="XXX",Babestation 24
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="XXX",Babestation 24
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="" group-title="Gjermane",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="Gjermane",Baden TV
@@ -690,7 +688,7 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="Gjermane",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Gjermane",Sophia TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",Sophia TV
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="" group-title="Gjermane",SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
@@ -756,10 +754,6 @@ https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
 
 #EXTINF:-1,Te huaja
-#EXTINF:-1 group-title="Te huaja,Sky News English (From YouTube)
-https://youtube.com/watch?v=9Auq9mYxFEE
-#EXTINF:-1 group-title="Te huaja,Euro News English (From YouTube)
-https://youtube.com/watch?v=6xrJy-1_qS4
 #EXTINF:-1 group-title="Te huaja",Slovenia 1
 http://vod.artmott.com/Slovenia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Te huaja",AlJazeeraEnglis
@@ -802,7 +796,7 @@ http://ott.artmott.com/Rtl2/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Prosiben/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Te huaja",TRT world
 http://84.22.33.214/TRTworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Te huaja",fox turkey
+#EXTINF:-1 group-title="Te huaja",FOX Turkey
 http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Te huaja",Aljazzira Ballkans
 http://ott.artmott.com/AljazziraBallkans/tracks-v1a1/mono.m3u8
@@ -843,3 +837,69 @@ http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Te huaja",TRT 1
 http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:0,Radio
+#EXTINF:0 group-title="Radio",BIG FM ROCK | ALB 
+http://46.252.33.58:9310
+#EXTINF:0 group-title="Radio",RADIO STAR | RKS
+http://radio.1dhe1.com:9400/Unnamed%20Server?1542744574629
+#EXTINF:0 group-title="Radio",RADIO ARTA | RKS
+http://173.192.207.51:8086/;
+#EXTINF:0 group-title="Radio",RADIO CLUB FM | ALB
+http://46.252.33.58:9410/1/
+#EXTINF:0 group-title="Radio",RADIO DARDANIA | DEU
+http://radio.radiodardania.com:4000/stream/1/
+#EXTINF:0 group-title="Radio",RADIO DUKAGJINI | RKS
+http://s6.voscast.com:8824/
+#EXTINF:0 group-title="Radio",RADIO EMIGRANTI | FRA
+http://www.radioemigranti.com:8000/radioauto48
+#EXTINF:0 group-title="Radio",RADIO FAMA | MKD
+http://fama.radiofama.org:7000/
+#EXTINF:0 group-title="Radio",RADIO FOLEJA | CHE
+http://radiorainca.net:8000/
+#EXTINF:0 group-title="Radio",RADIO FONTANA | RKS
+http://streaming.jusahost.com:8010/
+#EXTINF:0 group-title="Radio",RADIO GJILAN | RKS
+http://radio.1dhe1.com:9400/
+#EXTINF:0 group-title="Radio",RADIO ISLAME | CHE 
+http://server5.digital-webstream.de:33725/
+#EXTINF:0 group-title="Radio",RADIO JUG | ALB
+http://84.20.77.50:8000/
+#EXTINF:0 group-title="Radio",RADIO KOHA | MKD
+http://stream.tvkoha.tv:5000/
+#EXTINF:0 group-title="Radio",RADIO KOSOVA | RKS
+http://82.114.72.2:8088/
+#EXTINF:0 group-title="Radio",RADIO KOSOVA E LIRΛ
+http://quasar.shoutca.st:8018/
+#EXTINF:0 group-title="Radio",RADIO LLAPI | RKS
+http://radio.1dhe1.com:8555/
+#EXTINF:0 group-title="Radio",RADIO MARIMANGA | DNK
+http://91.82.85.71:9084/
+#EXTINF:0 group-title="Radio",RADIO MERGIMI | FRA
+http://144.76.33.185:8000/
+#EXTINF:0 group-title="Radio",RADIO NRG | ALB
+http://ice31.securenetsystems.net:80/AL09
+#EXTINF:0 group-title="Radio",RADIO PEJA | RKS
+http://ns5.albaservers.com:8020/
+#EXTINF:0 group-title="Radio",RADIO PENDIMI | RKS
+http://radio-pendimi.com:8000/
+#EXTINF:0 group-title="Radio",RADIO PERENDIMI | GBR
+http://vera-ks.com:7000/
+#EXTINF:0 group-title="Radio",RADIO PLUS | RKS
+http://192.240.97.68:8090/
+#EXTINF:0 group-title="Radio",RADIO RINIA | RKS
+http://radio.1dhe1.com:9200/
+#EXTINF:0 group-title="Radio",RADIO SHARRI | RKS
+http://live.radio-sharri.info:8020/
+#EXTINF:0 group-title="Radio",RADIO VICIANA | DEU
+http://viciana.no-ip.info:8010/
+#EXTINF:0 group-title="Radio",RADIO ZΛRIiARBΛRIT | NOR
+http://s8.streammonster.com:8210/
+#EXTINF:0 group-title="Radio",RADIO ZΛRIiILIRIDΛS |ITA
+http://109.123.116.202:8082/
+#EXTINF:0 group-title="Radio",RADIO ZΛRIiKOSOVΛS | DNK
+http://174.36.206.197:8038/
+#EXTINF:0 group-title="Radio",RADIO 7 | ALB
+http://93.190.141.15:7025/live
+#EXTINF:0 group-title="Radio",RADIO 21
+http://84.22.44.247:1935/live/radio.stream/playlist.m3u8
