@@ -20,6 +20,9 @@ http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHG6Rve.png"  group-title="Kanalet RTSH",RTSH Shqip (2)
 http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
 
+https://play.shqipvision.tv:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDIwIDc6NTY6MTcgUE0maGFzaF92YWx1ZT1CTlEvQ2pUNERBZTYrTUM0TlNvWGlRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTQ=
+
+
 #EXTINF:-1, Gjenerale + Lajme + Lokale
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",RTK 1
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
