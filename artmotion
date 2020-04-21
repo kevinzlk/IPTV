@@ -410,7 +410,7 @@ http://84.22.33.254/unicast.clubtv/video.m3u8
 http://84.22.33.254/unicast.turbo/video.m3u8
 #EXTINF:-1 group-title="Muzike",mtv europe
 http://84.22.33.254/unicast.mtveurope/tracks-a2/mono.m3u8
-#EXTINF:-1 group-title="Mzuzike",FILM BOX ARTHOUSE
+#EXTINF:-1 group-title="Muzike",FILM BOX ARTHOUSE
 http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 
 
@@ -692,7 +692,7 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="Gjermane",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",Sophia TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Gjermane",Sophia TV
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="" group-title="Gjermane",SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
@@ -907,12 +907,3 @@ http://174.36.206.197:8038/
 http://93.190.141.15:7025/live
 #EXTINF:0 group-title="Radio",RADIO 21
 http://84.22.44.247:1935/live/radio.stream/playlist.m3u8
-
-
-#EXTINF:0,Dokumentare Youtube
-#EXTINF:0 group-title="Dokumentare Youtube",Our Planet | Frozen Worlds | FULL EPISODE | Netflix
-https://www.youtube.com/watch?v=cTQ3Ko9ZKg8
-#EXTINF:0 group-title="Dokumentare Youtube",Our Planet | Forests | FULL EPISODE | Netflix
-https://www.youtube.com/watch?v=JkaxUblCGz0&t=74s
-#EXTINF:0 group-title="Dokumentare Youtube",Our Planet | Planet Diversity | FULL EPISODE | Netflix
-https://www.youtube.com/watch?v=GfO-3Oir-qM
