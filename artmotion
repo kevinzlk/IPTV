@@ -907,3 +907,7 @@ http://174.36.206.197:8038/
 http://93.190.141.15:7025/live
 #EXTINF:0 group-title="Radio",RADIO 21
 http://84.22.44.247:1935/live/radio.stream/playlist.m3u8
+
+#EXTINF:0,Filma me titra greke
+#EXTINF:0 group-title="Filma me titra greke",A Quiet Passion (Ήρεμο Πάθος)
+http://hbbtv2.ert.gr/video.php/geo/w/vid/ff01878adebcc9e78f61db1f2f037b9d.mp4
