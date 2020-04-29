@@ -38,7 +38,7 @@ http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://www.vatra.net/wp-content/uploads/2015/09/02kl.jpg",TV Klan
 http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://www.vatra.net/wp-content/uploads/2015/09/02kl.jpg",TV Klan 2nd option
-https://play.shqipvision.tv:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIwIDc6MTY6MDIgUE0maGFzaF92YWx1ZT1OeTBvMDdXc0liL2lZc2k3Q3NWdXBBPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTQ=
+https://play.shqipvision.tv:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIwIDg6MjQ6NDYgUE0maGFzaF92YWx1ZT01MUc5UEdPbk9ldm5UbmZmNVI3dXZnPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTQ=
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale" tvg-logo="https://pbs.twimg.com/profile_images/1039598990512279553/CuKFdhjQ_400x400.jpg",Vizion Plus
 http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gjenerale + Lajme + Lokale",KTV HD
@@ -838,6 +838,162 @@ http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Te huaja",TRT 1
 http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:0,Radio Greke
+#EXTINF:0 group-title="Radio Greke",Era | 1, Prwto Programma (News) - Era 1
+http://radiostreaming.ert.gr/ert-proto
+#EXTINF:0 group-title="Radio Greke",Era | 2, Deutero Programma (Art Music) - Era 2
+http://radiostreaming.ert.gr/ert-deftero
+#EXTINF:0 group-title="Radio Greke",Era | 3, Trito Programma (Classic Music) - Era 3
+http://radiostreaming.ert.gr/ert-trito
+#EXTINF:0 group-title="Radio Greke",Era | 4, Sport (Sports News) - Era Sport
+http://radiostreaming.ert.gr/ert-erasport
+#EXTINF:0 group-title="Radio Greke",Era | Kosmos (Jazz, Ethnic) - Kosmos
+http://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:0 group-title="Radio Greke",Era | Voice Of Greece (News, World) - Voice of Greece
+http://radiostreaming.ert.gr/ert-voiceofgreece
+#EXTINF:0 group-title="Radio Greke",095.20 | Athens Deejay FM, Athens (Mainstream Pop, Top Hits) - 95.2 Athens DeeJay
+http://94.23.0.114:41972
+#EXTINF:0 group-title="Radio Greke",089.20 | Music, Athens (Mainstream Pop, Top Hits) - Music 89.2
+http://ample-02.radiojar.com/k0hua7u1yk5tv
+#EXTINF:0 group-title="Radio Greke",104.60 | Hot FM, Athens (Mainstream Pop, Top Hits) - Hot 104.6
+http://hotfm.live24.gr:80/hotfm
+#EXTINF:0 group-title="Radio Greke",101.60 | Radio Paradise, Poros (Mainstream Pop, Top Hits) - Netcast
+http://213.239.206.179:8850
+#EXTINF:0 group-title="Radio Greke",088.90 | Hit, Athens (Pop, Top Hits) - HIT 889 radio
+http://64.150.176.42:8146/;stream
+#EXTINF:0 group-title="Radio Greke",106.20 | Mad, Athens (Mainstream House, Pop) - MAD RADIO
+http://mediaserver.mad.tv:8000/stream
+#EXTINF:0 group-title="Radio Greke",092.60 | Best, Athens (Electronic House) - DB90-TX
+http://best.live24.gr/best1222
+#EXTINF:0 group-title="Radio Greke",102.50 | Nitro, Athens (Electronic House) - Nitro 102.5 
+http://nitro.live24.gr/nitro4555
+#EXTINF:0 group-title="Radio Greke",094.30 | Xenios, Athens (Dance, Other) - XENIOS 943
+http://147.135.252.4:10198
+#EXTINF:0 group-title="Radio Greke",087.70 | En Lefko, Athens (Electronic House) - En Lefko 877 radio
+http://stream.radiojar.com:80/enlefko877
+#EXTINF:0 group-title="Radio Greke",096.60 | Pepper, Athens (Easy Listening) - /pepperorigin
+http://pepper966.live24.gr/pepperorigin
+#EXTINF:0 group-title="Radio Greke",096.60 | Pepper (Alt), Athens (Easy Listening) - pepper
+http://stream.radiojar.com/pepper.m4a
+#EXTINF:0 group-title="Radio Greke",092.90 | Kiss FM, Athens (Adult Contemponary) - Kiss Fm 92.9
+http://kissfm.live24.gr/kiss2111
+#EXTINF:0 group-title="Radio Greke",097.20 | Easy, Athens (Easy Listening) - Easy 97.2
+http://ample-02.radiojar.com/cthtwxk5yvduv
+#EXTINF:0 group-title="Radio Greke",092.20 | Galaxy, Athens (Easy Listening) - Galaxy 92
+http://galaxy.live24.gr/galaxy9292
+#EXTINF:0 group-title="Radio Greke",096.30 | Red, Athens (Rock) - RED 96.3 
+https://ample-06.radiojar.com/redfm963
+#EXTINF:0 group-title="Radio Greke",096.90 | Rock FM, Athens (Rock) - Rock FM 96.9
+http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8
+#EXTINF:0 group-title="Radio Greke",105.20 | Atlantis, Athens (Greek Rock) - Atlantis 105,2 FM
+http://144.76.140.103:8308
+#EXTINF:0 group-title="Radio Greke",089.80 | Dromos, Athens (Greek Mainstream) - DROMOS FM
+http://dromos898.live24.gr/dromos898
+#EXTINF:0 group-title="Radio Greke",102.20 | Sfera, Athens (Greek Mainstream) - www.sfera.gr
+http://sfera.live24.gr/sfera4132
+#EXTINF:0 group-title="Radio Greke",092.30 | Lampsi, Athens (Greek Mainstream) - Lampsi 92.3
+http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+#EXTINF:0 group-title="Radio Greke",094.90 | Rythmos, Athens (Greek Mainstream) - Rythmos 94.9
+http://ample-05.radiojar.com/g4tyehk5yvduv
+#EXTINF:0 group-title="Radio Greke",104.00 | Party, Athens (Mainstream Pop, Top Hits) - This is my server name
+http://178.21.169.118:8006/stream
+#EXTINF:0 group-title="Radio Greke",098.60 | Derti, Athens (Greek, Folk) - www.derti.gr
+http://derti.live24.gr/derty1000
+#EXTINF:0 group-title="Radio Greke",102.70 | Palmos, Poros (Greek, Folk) - Palmos Radio 102.7 Fm  * http://www.palmosradio.gr * Sms: Palmos Sto 19599 (Greece - Greek - Athens)
+http://s6.onweb.gr:8010
+#EXTINF:0 group-title="Radio Greke",101.30 | Diesi, Athens (Art Music, Folk, Greek) - DIESI FM
+http://diesi.live24.gr/diesi1013
+#EXTINF:0, group-title="Radio Greke"099.20 | Melodia, Athens (Art Music, Greek) - Melodia
+http://netradio.live24.gr:80/melodia
+#EXTINF:0 group-title="Radio Greke",088.00 | Menta, Athens (Art Music, Greek) - menta
+http://stream.radiojar.com/menta.aac?1457987195
+#EXTINF:0 group-title="Radio Greke",097.50 | Love, Athens (Easy Listening, Greek) - My Station name
+http://loveradio.live24.gr/loveradio-1000
+#EXTINF:0 group-title="Radio Greke",108.00 | Hxorama, Athens (Greek, Other) - RADIO HXORAMA ATHENS
+http://cast.streams.ovh:9069/live
+#EXTINF:0 group-title="Radio Greke",106.40 | Radio Argosaronikos, Nauplio (Greek Mainstream, Folk) - RADIO ARGOSARONIKOS 106,4FM
+http://s3.onweb.gr:8536
+#EXTINF:0 group-title="Radio Greke",104.30 | Minore, Athens (Greek, Folk, Other) - MINORE FM - streaming by 24SERVER
+http://minorefm.live24.gr/minorefm
+#EXTINF:0 group-title="Radio Greke",104.80 | Styl FM, Athens (Greek Folk, Other) - STYL FM
+http://s3.onweb.gr:8530
+#EXTINF:0 group-title="Radio Greke",107.40 | Mythos, Athens (Greek Folk, Other) - A100 NetRadio Greece
+http://bestgreek.info:8104
+#EXTINF:0 group-title="Radio Greke",099.80 | Astro, Athens (Folk, Old Greek) - This is my server name
+http://realserver.info:8040
+#EXTINF:0 group-title="Radio Greke",088.30 | Penies, Athens (Folk, Old Greek) - PENIES
+http://s2.onweb.gr:8632
+#EXTINF:0 group-title="Radio Greke",091.40 | LyraFM, Athens (Tranditional, Greek) - LyraFM
+http://78.47.56.126:9244/live
+#EXTINF:0 group-title="Radio Greke",087.50 | Kriti FM, Athens (Tranditional, Greek) - KPHTH FM
+http://s3.onweb.gr:8878
+#EXTINF:0 group-title="Radio Greke",088.60 | NEWS247, Athens (News) - NEWS247
+http://ample-03.radiojar.com/gphtvb4env5tv
+#EXTINF:0 group-title="Radio Greke",105.50 | Sto Kokkino, Athens (News) - StoKokkino
+http://stream.radiojar.com/kokkino-ath.mp3
+#EXTINF:0 group-title="Radio Greke",098.90 | Alpha, Athens (News) - Alpha 989
+https://streamingv2.shoutcast.com/Alpha989
+#EXTINF:0 group-title="Radio Greke",097.80 | Real, Athens (News) - real-otenet
+http://realfm2.live24.gr:80/realfm
+#EXTINF:0 group-title="Radio Greke",090.10 | Parapolitika, Athens (News) - no name
+http://netradio.live24.gr/athinaradio
+#EXTINF:0 group-title="Radio Greke",098.30 | Athina 984, Athens (News) - Athina 984
+http://athina984.live24.gr/athina984
+#EXTINF:0 group-title="Radio Greke",096.00 | Flash, Athens (News) - Flash
+#http://flash.live24.gr/flash96
+#EXTINF:0 group-title="Radio Greke",090.60 | Art, Athens (News) - Art 90,6
+http://live.webhosting4u.gr:8023/stream
+#EXTINF:0 group-title="Radio Greke",094.60 | Sport FM, Athens (Sports News) - Nova Sports
+http://sportfm.live24.gr/sportfm7712
+#EXTINF:0 group-title="Radio Greke",103.30 | Sport 24, Athens (Sports News) - 24 Radio
+http://sport24radio.live24.gr/sport24radio
+#EXTINF:0 group-title="Radio Greke",089.50 | Ekklhsia Ellados, Athens (Religion) - Ekklisia Ellados 
+http://85.10.206.222:8002
+#EXTINF:0 group-title="Radio Greke",Derti FM 104.9
+http://live3.istoikona.com:8017
+#EXTINF:0 group-title="Radio Greke",Best FM 103.1
+http://netradio.live24.gr:80/bestradiorho2
+#EXTINF:0 group-title="Radio Greke",Melody FM 104.5
+http://cast.radiohost.ovh:9080
+#EXTINF:0 group-title="Radio Greke",Nitro 102
+http://46.4.75.197:11036/stream
+#EXTINF:0 group-title="Radio Greke",Notos News 97.8
+http://37.187.136.85:9331/stream
+#EXTINF:0 group-title="Radio Greke",Radio 1 Ρόδος 88
+http://www.111.gr:8000
+#EXTINF:0 group-title="Radio Greke",Radio Galaxy 99
+http://solid1.streamupsolutions.com:11074/stream
+#EXTINF:0 group-title="Radio Greke",Radio Nikita 98.6
+http://radionikita.novahost.bg:8000/;stream.mp3
+#EXTINF:0 group-title="Radio Greke",Sky Ρόδος 100.0
+http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
+#EXTINF:0 group-title="Radio Greke",Top FM Δωδεκανήσου 102.4
+http://live3.istoikona.com:8376/
+#EXTINF:0 group-title="Radio Greke",ΕΡΤ Ν. Αιγαίου 93.1
+http://radiostreaming.ert.gr:80/ert-rodos
+#EXTINF:0 group-title="Radio Greke",Κλικ FM 106.2
+http://www.111.gr:8042
+#EXTINF:0 group-title="Radio Greke",Παλμός 99.5
+http://netradio.live24.gr:80/palmos995-rho
+#EXTINF:0 group-title="Radio Greke",Ράδιο Αρχάγγελος 94.1
+http://eco.onestreaming.com:8536/;listen.pls
+#EXTINF:0 group-title="Radio Greke",Ράδιο Λυχνάρι 91.4
+http://eco.onestreaming.com:8037
+#EXTINF:0 group-title="Radio Greke",Ρόδος FM 90.7
+http://37.187.136.85:9327/stream
+#EXTINF:0 group-title="Radio Greke",Στο Κόκκινο 103.7
+http://stream.radiojar.com:80/a1n0yftmb.mp3
+#EXTINF:0 group-title="Radio Greke",099.40 | Greca, Pyrgos (Greek Mainstream, Folk) - Greca 99,4
+http://eco.onestreaming.com:8109
+#EXTINF:0 group-title="Radio Greke",096.60 | Sfera, Patra (Greek Mainstream) - Sfera, Patra 
+http://netradio.live24.gr/sfera96-6-patra
+#EXTINF:0 group-title="Radio Greke",107.40 | Aria, Agrinio (Greek Mainstream, Folk) - Aria FM 107.4
+http://cast4.magicstreams.gr:10131
+#EXTINF:0 group-title="Radio Greke",099.70 | Fasma, Patra (Greek Mainstream) - Fasma FM 99.7
+http://67.212.165.106:8104
 
 
 #EXTINF:0,Radio
