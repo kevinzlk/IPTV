@@ -1065,3 +1065,33 @@ http://84.22.44.247:1935/live/radio.stream/playlist.m3u8
 #EXTINF:0,Filma me titra greke
 #EXTINF:0 group-title="Filma me titra greke",A Quiet Passion (Ήρεμο Πάθος)
 http://hbbtv2.ert.gr/video.php/geo/w/vid/ff01878adebcc9e78f61db1f2f037b9d.mp4
+
+
+
+#EXTINF:0,Web cameras Live
+#EXTINF:-1 group-title="Web cameras Live",Thessaloniki
+https://hddn01.skylinewebcams.com/live.m3u8?a=65nk9i1oelibom88cffv6th7g4
+#EXTINF:-1 group-title="Web cameras Live",Dubai
+https://videos3.earthcam.com/fecnetwork/5868.flv/chunklist_w274414879.m3u8
+#EXTINF:-1 group-title="Web cameras Live",Bognorregis (UK)
+https://videos3.earthcam.com/fecnetwork/5288.flv/chunklist_w721329289.m3u8
+#EXTINF:-1 group-title="Web cameras Live",Baltimora
+https://videos3.earthcam.com/fecnetwork/15658.flv/chunklist_w331834704.m3u8
+#EXTINF:-1 group-title="Web cameras Live",San Francisco 360°
+https://videos3.earthcam.com/fecnetwork/6961.flv/chunklist_w335961271.m3u8
+#EXTINF:-1 group-title="Web cameras Live",Hollywood live
+https://videos3.earthcam.com/fecnetwork/lacitytours1.flv/chunklist_w683585821.m3u8
+#EXTINF:-1 group-title="Web cameras Live",Thailand
+https://videos3.earthcam.com/fecnetwork/14329.flv/chunklist_w670501004.m3u8
+#EXTINF:-1 group-title="Web cameras Live",New York Center
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w246661914.m3u8
+#EXTINF:-1 group-title="Web cameras Live",Newyork/little Italy
+https://videos3.earthcam.com/fecnetwork/5775.flv/chunklist_w1803081483.m3u8
+#EXTINF:-1 group-title="Web cameras Live",miami Beaches
+https://videos3.earthcam.com/fecnetwork/13862.flv/chunklist_w309672791.m3u8
+#EXTINF:-1 group-title="Web cameras Live",New York Times Square
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w48750913.m3u8
+#EXTINF:-1 group-title="Web cameras Live",Gerusalemme live
+https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w619342886.m3u8
+#EXTINF:-1 group-title="Web cameras Live",Dublino live
+https://videos3.earthcam.com/fecnetwork/4054.flv/chunklist_w1666623356.m3u
