@@ -1,13 +1,20 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",PAOK vs AEK 19:00
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",PSG vs Man City Ellhnika 22:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Roma vs Man Utd Ellhnika 22:00
 https://server7.freestreamhd.ml/livehls/stream100/chunks.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",PSG vs Man City Aravika 22:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Roma vs Man Utd Aravika 22:00
 https://d490xm8iim48q.cloudfront.net/out/v1/4e60ab8b5d894d19b424edbebadedc68/index_1.m3u8
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Villareal vs Arsenal Ellhnika 22:00
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Villareal vs Arsenal Aravika 22:00
+
 
 
 
