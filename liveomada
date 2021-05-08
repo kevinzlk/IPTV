@@ -2,11 +2,6 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",BVB vs Leipzig ellhnika 16:30
-https://server6.freestreamhd.ml/livehls/stream200/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",BVB vs Leipzig agglika 16:30
-https://d1timfeo6tjjr0.cloudfront.net/out/v1/d6e7e5369c5a466b946fca4cfc100f53/index_1.m3u8
-
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Barcelona vs A.Madrid ellhnika 17:15
 https://server6.freestreamhd.ml/livehls/stream300/playlist.m3u8
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Barcelona vs A.Madrid aravika 17:15
