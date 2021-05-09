@@ -2,9 +2,10 @@
 
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Aggliko olh mera apo 14:00 mexri 21:00
-https://server6.freestreamhd.ml/livehls/stream700/playlist.m3u8
+https://server5.freestreamhd.ml/livehls/stream100/playlist.m3u8
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Ispaniko olh mera apo 15:00 mexri 22:00
-https://d105w96h7nruo1.cloudfront.net/out/v1/8a227368addc4da881869dd074280075/index.m3u8
+https://server6.freestreamhd.ml/livehls/stream200/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Juventus vs Milan Ellhnika 21:45
 
