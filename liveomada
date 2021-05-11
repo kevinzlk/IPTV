@@ -1,7 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Man Utd vs Leicester Ellhnika 20:00
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Man Utd vs Leicester Aravika 20:00
+https://d105w96h7nruo1.cloudfront.net/out/v1/8a227368addc4da881869dd074280075/index.m3u8
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Levante vs Barcelona Ellhnika 23:00
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Levante vs Barcelona Aravika 23:00
 
 
 
