@@ -1,7 +1,11 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Leipzig vs BVB Ellhnika 21:45
+https://server7.freestreamhd.ml/livehls/stream200/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Man Utd vs Liverpool Ellhnika 22:15
+https://server7.freestreamhd.ml/livehls/stream100/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Granada vs R.Madrid Ellhnika 23:00
+https://server7.freestreamhd.ml/livehls/stream300/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Aravika",beIN SPORTS 1 4K QA
