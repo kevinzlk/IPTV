@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Tzokovits vs Tsitsipas Ellhnika 15:00
-https://server8.freestreamhd.ml/livehls/streamtennis/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Tzokovits vs Tsitsipas Ellhnika 12:00
+https://server10.freestreamhd.ml/livehls/streamtennis/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Aravika",beIN SPORTS 1 4K QA
