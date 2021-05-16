@@ -12,10 +12,11 @@ https://server10.freestreamhd.ml/livehls/streamtennis/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",A.Madrid vs Osassuna Ellhnika 19:30
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Bilbao vs R.Madrid Ellhnika 19:30
-
+https://server11.freestreamhd.ml/livehls/stream600/playlist.m3u8
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Barcelona vs Celta Ellhnika 19:30
+https://server11.freestreamhd.ml/livehls/stream800/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Bilbao vs R.Madrid Ellhnika 19:30
+https://server11.freestreamhd.ml/livehls/stream700/playlist.m3u8
 
 
 
