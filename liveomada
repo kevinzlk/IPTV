@@ -1,7 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg", 
-https://server13.freestreamhd.ml/livehls/stream300/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Southampton vs Leeds Ellhnika 20:00
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Man Utd vs Fullham Ellhnika 20:00
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Brighton vs Man City Ellhnika 21:00
+
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Lacio vs Torino Ellhnika 21:30
 
 
 
