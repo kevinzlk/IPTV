@@ -1,17 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Southampton vs Leeds Ellhnika 20:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Atlanta vs Juventus Ellhnika 20:00
 https://server8.freestreamhd.ml/livehls/stream100/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Man Utd vs Fullham Ellhnika 20:00
-https://server8.freestreamhd.ml/livehls/stream200/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Brighton vs Man City Ellhnika 21:00
-https://server8.freestreamhd.ml/livehls/stream300/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Lacio vs Torino Ellhnika 21:30
-https://server8.freestreamhd.ml/livehls/stream400/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Chelsea vs Leicester Ellhnika 22:15
-https://server8.freestreamhd.ml/livehls/stream500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Aravika",beIN SPORTS 1 4K QA
