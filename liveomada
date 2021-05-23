@@ -2,8 +2,8 @@
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Lepto pros Lepto Ispaniko 19:00
 https://server10.freestreamhd.ml/livehls/streamlaliga/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",po
+https://antennavodsp-vh.akamaihd.net/i/VODS2/,65b61d66-093e-476b-8c1d-93da6d48b27e,.mp4.csmil/index_0_av.m3u8?null=0&hdntl=exp=1621843551~acl=%2f*~data=hdntl~hmac=c84168ce44a7ecb10e469a82b4316b422e21441a17bb4d84a3386fa22274e68e
 
 #EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Aravika",beIN SPORTS 1 4K QA
 http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24697
