@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Norrie vs Tsitsipas Ellhnika 15:00
+https://server11.freestreamhd.ml/livehls/streamtennis/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Inter vs Udinese ellhnika 16:00
 
 
