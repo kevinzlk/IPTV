@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Norrie vs Tsitsipas Ellhnika 15:00
-https://server11.freestreamhd.ml/livehls/streamtennis/playlist.m3u8
 
 
 
@@ -9,107 +7,19 @@ https://server11.freestreamhd.ml/livehls/streamtennis/playlist.m3u8
 https://server11.freestreamhd.ml/livehls/stream100/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Man City vs Everton ellhnika 18:00
-
+https://server11.freestreamhd.ml/livehls/stream200/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Wolves vs Man Utd Ellhnika 18:00
-
+https://server11.freestreamhd.ml/livehls/stream300/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Livepool vs C.Palace Ellhnika 18:00
-
+https://server12.freestreamhd.ml/livehls/stream400/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Leicester vs Tottenham ellhnika 18:00
-
+https://server12.freestreamhd.ml/livehls/stream500/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Aston Villa vs Chelsea Ellhnika 18:00
-
+https://server12.freestreamhd.ml/livehls/stream600/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Atlanta vs Milan ellhnika 21:45
 
-
-
-
-
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Aravika",beIN SPORTS 1 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24697
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 1 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Aravika",beIN SPORTS 1 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/22157
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 1 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Aravika",beIN SPORTS 1 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14980
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN SPORTS 1 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Aravika",beIN SPORTS 1 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14981
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 2 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="Aravika",beIN SPORTS 2 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24696
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 2 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="Aravika",beIN SPORTS 2 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/22158
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 2 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Aravika",beIN SPORTS 2 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14982
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN SPORTS 2 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Aravika",beIN SPORTS 2 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14983
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN SPORTS 3 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="Aravika",beIN SPORTS 3 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24695
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 3 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="Aravika",beIN SPORTS 3 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/22159
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 3 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Aravika",beIN SPORTS 3 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14984
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN SPORTS 3 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Aravika",beIN SPORTS 3 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14985
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 4 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Aravika",beIN SPORTS 4 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24694
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 4 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Aravika",beIN SPORTS 4 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/22160
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORTS 4 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Aravika",beIN SPORTS 4 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14986
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORTS 4 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Aravika",beIN SPORTS 4 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14987
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="bein SPORTS 5 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Aravika",bein SPORTS 5 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24693
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 5 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Aravika",beIN SPORTS 5 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/22161
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORTS 5 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Aravika",beIN SPORTS 5 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14988
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORTS 5 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Aravika",beIN SPORTS 5 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14989
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 6 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Aravika",beIN SPORTS 6 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24692
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 6 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Aravika",beIN SPORTS 6 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/22162
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORTS 6 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Aravika",beIN SPORTS 6 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14990
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORTS 6 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Aravika",beIN SPORTS 6 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14991
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 7 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Aravika",beIN SPORTS 7 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24691
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 7 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Aravika",beIN SPORTS 7 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/22163
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 7 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Aravika",beIN SPORTS 7 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14992
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 7 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Aravika",beIN SPORTS 7 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14993
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 8 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports8.jpg" group-title="Aravika",beIN SPORTS 8 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24690
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 8 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports8.jpg" group-title="Aravika",beIN SPORTS 8 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/18284
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN SPORTS 8 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports8.jpg" group-title="Aravika",beIN SPORTS 8 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14994
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 8 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports8.jpg" group-title="Aravika",beIN SPORTS 8 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14995
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 9 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport9.jpg" group-title="Aravika",beIN SPORTS 9 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24689
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 9 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport9.jpg" group-title="Aravika",beIN SPORTS 9 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/21515
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN SPORTS 9 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport9.jpg" group-title="Aravika",beIN SPORTS 9 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14996
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN SPORTS 9 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport9.jpg" group-title="Aravika",beIN SPORTS 9 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14997
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 10 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports10.jpg" group-title="Aravika",beIN SPORTS 10 4K QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/24688
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 10 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport10.jpg" group-title="Aravika",beIN SPORTS 10 FHD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/21516
-#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beIN SPORTS 10 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport10.jpg" group-title="Aravika",beIN SPORTS 10 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14998
-#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beIN SPORTS 10 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport10.jpg" group-title="Aravika",beIN SPORTS 10 SD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/14999
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 11 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport11.jpg" group-title="Aravika",beIN SPORTS 11 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/15000
-#EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 12 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport12.jpg" group-title="Aravika",beIN SPORTS 12 HD QA
-http://85.203.33.88:80/U1Qss18Agy056/LnwWoH747/15001
