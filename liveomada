@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Wales vs Albania 19:00
+http://edge01eu.ekranet.com/rtshhd_low/index.m3u8?e=69d6bae19decc37136b7a4b7921f281d&c=rtshhd_low&medium=websocket
 
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",
