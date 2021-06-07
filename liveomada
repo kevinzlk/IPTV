@@ -12,6 +12,13 @@ http://mag.exyuportals.iptv.uno:80/EsZG2zu75/JH38nU0205/22989
 http://dimapro.cz:8080/00:1A:79:17:0C:41/ziajdjjfdifjd64646/63912
 
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Tsexia vs Alvania alvaniko 21:15
+http://edge01eu.ekranet.com/rtshhd_low/index.m3u8?e=1d77a3ccb9207b763c61f54c7de831bc&c=rtshhd_low&medium=websocket
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Tsexia vs Alvania ellhiko 21:15
+https://server20.freestreamhd.ml/livehls/stream100/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Ellhnika" tvg-logo="https://tinyurl.com/yyy3suhw",Cosmote Sport Highlights GR
 http://tv.iptvking.iptv.uno:80/gU2V9Y580/ArSywu529/19577
 #EXTINF:-1 group-title="Ellhnika" tvg-logo="https://tinyurl.com/y2uxa2fl",Cosmote Sport 1 HD GR
