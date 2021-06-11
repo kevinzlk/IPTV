@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/0FaReP5.png",Ant1 HD
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on
-
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",NBA 02:30 KAI 05:00 ELLHNIKO
 https://e2.cdnfoxtv.com/ingest03/70201.m3u8?sf=aUZmbTJzQ0MzMA==&token=n1G7b1yRmxBrukuvymPQLQ&expires=1623466311&rnd=
@@ -10,3 +7,5 @@ https://e2.cdnfoxtv.com/ingest03/70201.m3u8?sf=aUZmbTJzQ0MzMA==&token=n1G7b1yRmx
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",NBA 02:30 KAI 05:00 ELLHNIKO (2)
 https://server20.freestreamhd.ml/livehls/streamnba/playlist.m3u8
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/0FaReP5.png",Ant1 HD
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on
