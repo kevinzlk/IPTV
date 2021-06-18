@@ -1,8 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",NBA ELLHNIKO
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",
 https://server20.freestreamhd.ml/livehls/streamnba/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/0FaReP5.png",Ant1 HD
-https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/ant1prodabr/ant1prodstream_1080p/video.m3u8
