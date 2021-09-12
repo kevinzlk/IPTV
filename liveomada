@@ -1,8 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Man Utd vs Newcastle 17:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Leeds vs Liverpool 18:30
 https://server57.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Leicester vs Man City 17:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",PAOK vs Giannina 19:00
 https://server56.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",AEK vs Ionikos 20:30
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/KhdQpSs.jpeg",Olympiakos vs Atromitos 20:30
