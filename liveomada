@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Kairat vs Omonia kseno 17:30
-https://live-kaztrk.cdnvideo.ru/kaztrk_kz/kazsport-srt.smil/b53a78402197e76780456ed700264d25--kaztrk_kz--kazsport-srt_720--chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.kaztrk
 
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Lincoln vs PAOK Ellhnika 19:45
@@ -16,7 +14,7 @@ https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Galatasaray vs Lazio kseno 19:45 
-
+https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631810005795&abd=1
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",S.Rennais vs Tottenham kseno 19:45
 
