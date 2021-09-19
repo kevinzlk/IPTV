@@ -2,12 +2,14 @@
 
 
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",West Ham vs Man Utd 16:00
+https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Apollon S. vs Volos
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Apollon S. vs Volos 16:00
 https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Atromitos vs Panaitolikos
-
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Atromitos vs Panaitolikos 18:15
+https://server50.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",OFI vs AEK 18:15
