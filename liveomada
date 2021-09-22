@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Olympiakos vs A.Smyrnis 18:15
-https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panaitolikos vs PAOK 18:15
-https://server56.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",AEK vs Lamia 20:30
 https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
