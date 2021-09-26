@@ -1,16 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",A.Tripolis vs Olympiakos 16:00
-https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panathinaikos vs Volos 16:00
-https://server56.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Lamia vs Panaitolikos 18:15
 https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Arsenal vs Tottenham isws 18:30
-
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PAOK vs AEK 20:30 (1)
 https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
