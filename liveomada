@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Shaktar vs Inter 19:45
-https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ajax vs Besiktas 19:45
-https://server54.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PSG vs Man City 22:00
 https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Porto vs Liverpool 22:00
@@ -15,3 +9,5 @@ https://server54.freestreamhd.ml/livehls/stream1/playlist.m3u8
 https://server55.freestreamhd.ml/livehls/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Milan vs Atletico M. 22:00
 https://server56.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",BVB vs Sporting L. 22:00
+https://dl9shgxyr5ah6.cloudfront.net/out/v1/ddf299570bda41fea428c3eb5a6e1640/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1632854352342&abd=1
