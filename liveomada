@@ -5,5 +5,22 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Aris vs Apollon S. 20:30
-https://server54.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Liverpool vs Man City 14:30
+https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Atromitos vs Giannina 16:00
+https://server59.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panaitolikos vs AEK 16:00
+https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",OFI vs PAOK 18:15
+https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ionikos vs Lamia 20:30
+https://server59.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Olympiakos vs Panathinaikos 20:30 (1)
+https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Olympiakos vs Panathinaikos 20:30 (2)
+https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
