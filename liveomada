@@ -3,12 +3,5 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",AEK vs Atromitos 20:30
-https://server56.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Giannina vs Olympiakos 20:30
-https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Leverkuzen-Bayern/Barca-Valencia
-https://server60.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Lamia vs Aris 19:30
+https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
