@@ -5,7 +5,7 @@
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Brugge vs Man City 19:45
 https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Bejiktas vs S.Lisbon 19:45.
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Bejiktas vs S.Lisbon 19:45
 https://server55.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 
@@ -18,3 +18,6 @@ https://server55.freestreamhd.ml/livehls/stream1/playlist.m3u8
 https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ajax vs BVB 22:00
 https://server58.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Shaktar vs R.Madrid Kseno 22:00
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Inter vs Sheriff Kseno 22:00
