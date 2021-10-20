@@ -3,14 +3,9 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",A.Madrid vs Liverpool 22:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Benfica vs Bayern 22:00
 https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PSG vs Leipzig 22:00
-https://server55.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Porto vs Milan 22:00
-https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ajax vs BVB 22:00
-https://server58.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Shaktar vs R.Madrid Kseno 22:00
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Inter vs Sheriff Kseno 22:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Chelsea vs Malmo 22:00
+https://server56freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Zenit vs Juventus 22:00
+https://server57.freestreamhd.ml/livehls/stream1/playlist.m3u8
