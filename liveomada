@@ -2,11 +2,14 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panaitolikos vs Olympiakos 19:30
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Lamia vs Atromitos 15:00
 https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PAOK vs A.Smyrnis 19:30
-https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panathinaikos vs OFI 17:15
+https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Tottenham vs Man Utd 19:30
-https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",AEK vs Aris 19:30
+https://server51.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Giannina vs A.Tripolis 19:30
+https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
