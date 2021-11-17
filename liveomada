@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Efes vs Olympiakos basket
 https://server40.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",V.Irlandia vs Italia kseno 21:45
-https://d2x10kfok6kqpf.cloudfront.net/out/v1/3ec3a076d77c46629c2530f88409d022/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1637001350244&abd=1
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",San Marino vs Agglia kseno 21:45
-https://d3nz2c92fdrfp7.cloudfront.net/out/v1/32a08fad064048c9b5eb2d2192e597bf/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&audio_mbr=1
