@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Watford vs Man Utd kseno 17:30
+https://d2htg7eyxtiids.cloudfront.net/out/v1/96f78ff899b24b8c8998b98c3a9f61ef/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&session_data=1&preview=1&t=1637424362443
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Liverpool vs Arsenal 19:30
 https://server45.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
