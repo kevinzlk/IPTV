@@ -17,3 +17,6 @@ https://llhls-live.akamaized.net/exp=1637787635~acl=%2F1a82ac54-dd13-4724-a1f9-a
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",A.Madrid vs Milan 22:00
 https://vkvsd21.mycdn.me/hls/1783407315617.m3u8/sig/Hn1nnCkflWM/srcIp/91.140.26.90/expires/1638243369725/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3031261653921/id/1783407315617/1783407315617_high/index.m3u8?p
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Sporting L. vs BVB 22:00
+https://vkvsd77.mycdn.me/hls/1783570959009.m3u8/sig/_0BnIHSdHl4/srcIp/91.140.26.90/expires/1638243904870/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3031418547105/id/1783570959009/1783570959009_high/index.m3u8?p
