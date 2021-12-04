@@ -5,5 +5,11 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Man Utd vs Arsenal 22:25
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",West Ham vs Chelsea 14:30
 https://server40.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Wolves vs Liverpool kseno 17:00
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",OFI vs Olympiakos 19:30
+https://server41.freestreamhd.ml/livehls/stream1/playlist.m3u8
