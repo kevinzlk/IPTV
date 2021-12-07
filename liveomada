@@ -4,9 +4,13 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ionikos vs PAOK 17:15
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PSG vs Brugge 19:45
 https://server40.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",AEK vs Panathinaikos 19:30
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Leipzig vs Man City 19:45
 https://server43.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Aris vs A.Tripolis 19:30
-https://server44.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Milan vs Liverpool 22:00
+https://server41.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",R.Madrid vs Inter 22:00
+https://server46.freestreamhd.ml/livehls/stream1/playlist.m3u8
