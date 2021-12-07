@@ -2,15 +2,11 @@
 
 
 
-
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PSG vs Brugge 19:45
-https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Leipzig vs Man City 19:45
-https://server55.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Milan vs Liverpool 22:00
-https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
+https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",R.Madrid vs Inter 22:00
 https://server56.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",BVB vs Bejiktas 22:00
+https://dndnbubca7ebt.cloudfront.net/out/v1/9b11be1ecbf242229c8f1f73355c6201/index_1.m3u8?from=other&vsid=d19ef2c1cb0049b7758859c5db4285e6a15f80a3fa6dxWEBx0005x1638907898&adsid=d1e1fcbd66028d0b2820cb14b7e2d9038bd16df1538exWEBx0005x1638907898&t=1638907899491&abd=1&session_data=1&preview=1
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Porto vs A.Madrid 22:00
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/AveHiEXTJLBfBZ9j3WCc94EcUf7d7n42BwiDijTXZwFa0znMuHnyM4CyPgcvohcozI2nAE7dLl43iAuh8uVcHg/transcode/eu-central-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
