@@ -4,18 +4,15 @@
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",LEPTO PROS LEPTO 19:45/22:00
 https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Juventus vs Malmo kseno 19:45
-https://d22qx226t06pmw.cloudfront.net/out/v1/7f5f87c1a8374727b802816807a48ae3/index_1.m3u8?from=other&vsid=b98f49f4cde284003ee78a8a6746cafca30edaeb8a93xWEBx0005x1638985789&adsid=afdcfc0f68590365be35597d2fddaea50e01e451e593xWEBx0005x1638985789&session_data=1&preview=1&t=1638985826420
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Zenit vs Chelsea kseno 19:45
-https://d78skfge4ctwu.cloudfront.net/out/v1/54d3d5d696754ebfbd0faab1a1130f5b/index_1.m3u8?from=other&vsid=6d1dca75d5c6208db652013fdf9929f3ecf5c3fb5661xWEBx0005x1638985750&adsid=6f324eadf0c19dcd90ba33be8ebf2eefa407f8a8afcdxWEBx0005x1638985750&t=1638985751208&abd=1
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Bayern M. vs Barcelona 22:00
 https://streamcdnh1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Man Utd vs Young Boys kseno 22:00
-
+https://d78skfge4ctwu.cloudfront.net/out/v1/54d3d5d696754ebfbd0faab1a1130f5b/index_1.m3u8?from=other&vsid=452fb3923bfe6e2b37b6f310f69c0994457942494a96xWEBx0005x1638992151&adsid=24e9bec8974f8159db29aff0d894e4ff731a6b29e30fxWEBx0005x1638992151
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Atalanta vs Villarreal kseno 22:00
-
+https://d22qx226t06pmw.cloudfront.net/out/v1/7f5f87c1a8374727b802816807a48ae3/index_1.m3u8?from=other&vsid=e0d5dcf063cabe59e32db1d3b554a3461d5d3582c03exWEBx0005x1638992182&adsid=f5822dbff0685f2296b21907435b9b3f6b15fe5d01cdxWEBx0005x1638992182&t=1638992182827&abd=1
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",RB Salzburg vs Sevilla kseno 22:00
 
+https://dvnu5sm8xg7ui.cloudfront.net/out/v1/17ce95d067574e25a4659cccd3d8f651/index_1.m3u8?from=other&vsid=35c3beb18db11952da3ef4e5eae2e3e9f4d91aa21be6xWEBx0005x1638992207&adsid=6d3cc1b8d5c57314a766eb8eb3440fbad5650ad8ca66xWEBx0005x1638992207&t=1638992208983&abd=1
