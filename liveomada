@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Giannina vs PAOK 17:15
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",OFI vs Aris 17:00
 https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Atromitos vs Olympiakos 19:30
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ionikos vs AEK 19:30
 https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
