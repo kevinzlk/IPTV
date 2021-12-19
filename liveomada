@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",
-https://server40.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PAOK vs A.Tripolis 19:30
+https://server50.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Tottenham vs Liverpool 18:30
 https://yalla1.s3.us-west-2.amazonaws.com/stream1/live_720p60.m3u8
