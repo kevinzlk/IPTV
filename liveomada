@@ -1,12 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PAOK vs A.Tripolis 19:30
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",
 https://server43.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Tottenham vs Liverpool 18:30
-https://yalla1.s3.us-west-2.amazonaws.com/stream1/live_720p60.m3u8
+
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Milan vs Napoli 21:45
-
+https://d3kty3byhi95wm.cloudfront.net/out/v1/800af9eecdc74b9fbce44259500790ce/index_1.m3u8?type%3Dlive
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",R.Madrid vs Cadiz 22:00
-
+https://yalla1.s3.us-west-2.amazonaws.com/stream1/live_720p60.m3u8
