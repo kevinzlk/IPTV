@@ -1,11 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PAOK vs Panaitolikos 17:15
+https://server42.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Barcelona vs R.Madrid 21:00
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Tottenham vs Chelsea 21:45
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Inter vs Juventus 22:00
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",agnohse
-https://server42.freestreamhd.ml/livehls/stream1/playlist.m3u8
