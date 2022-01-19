@@ -1,12 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Liverpool vs Brentford 16:00
-https://daddystream.s3.eu-central-1.amazonaws.com/iphone1/live_1080p60.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",AEK vs Panaitolikos 17:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panaitolikos vs Olympiakos 15:00
 https://server41.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panathinaikos vs Olympiakos 19:30
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",A.Karditsas vs Panathinaikos 17:00
 https://server42.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PAOK vs AEK 19:00
+https://server43.freestreamhd.ml/livehls/stream1/playlist.m3u8
