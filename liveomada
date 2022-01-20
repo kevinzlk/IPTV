@@ -1,7 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Maccabi vs Olympiakos 21:05
+https://server50.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",PAOK vs AEK 19:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Aris vs Lamia 21:30
 https://server43.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Arsenal vs Liverpool 21:45
