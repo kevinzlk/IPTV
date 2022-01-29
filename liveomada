@@ -1,32 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Aris vs Lamia 15:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panathinaikos vs A.Tripolis 15:00
 https://server41.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Volos vs PAOK 17:15
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ionikos vs Atromitos 17:15
 https://server42.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Atromitos vs AEK 17:15
-https://server53.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Atromitos vs AEK 17:15
-https://server43.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",R.Madrid vs Elche kseno 17:15
-https://2205.janjua.pw:8088/adfree/BeinSN1/playlist.m3u8?vidictid=190151554084&id=106430&pk=c367626c64eecb06649f20f140e92941d6236e7c053edb0b4867697e16aa3d0d
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",C.Palace vs Liverpool 16:00
-https://server57.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Chelsea vs Tottenham 18:30
-https://server58.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Milan vs Juventus 21:45
-https://server59.freestreamhd.ml/livehls/stream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",D.Alaves vs Barcelona kseno 22:00
-https://2d04lw.janjua.pw:8088/adfree/BeinSN1/playlist.m3u8?vidictid=19015826747&id=106430&pk=09695fcf0dc9648084186f4c00449eac0df714b0c3b3b68865e50466fad5b65b
