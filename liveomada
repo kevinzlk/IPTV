@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Man Utd vs Southampton 14:30
-https://server41.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",A.Madrid vs Getafe 22:00
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/8pN3eEmExSMOXVP3zQPg3W5xGKVgxhxFaTAj0naqBZyodCJQJyxteFL6CcLOErrcBUB3ZoxRKwxh5KO6EygmWg/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Panathinaikos vs Lamia 15:30
 https://server42.freestreamhd.ml/livehls/stream1/playlist.m3u8
