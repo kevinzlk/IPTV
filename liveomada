@@ -1,8 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Villareal vs Juventus 22:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Aris vs Atromitos 18:00
+https://server40.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Bernley vs Tottenham 21:30
 https://server52.freestreamhd.ml/livehls/stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Chelsea vs Lille 22:00
-https://server58.freestreamhd.ml/livehls/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Liverpool vs Leeds 21:45
+https://server47.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Benfica vs Ajax 22:00
+https://server42.freestreamhd.ml/livehls/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",A.Madrid vs Man Utd 22:00
+https://streamcdnh7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
