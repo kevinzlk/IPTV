@@ -2,7 +2,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Man Utd vs A.Madrid 22:00
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",gia paok steilte minima
 https://maderr.s3.eu-central-1.amazonaws.com/sopa1/live_1080p60.m3u8
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Ajax vs Benfica 22:00
-https://amplify-easy-staging-210628-deploymnet.s3.eu-central-1.amazonaws.com/normal1/live_1080p60.m3u8
