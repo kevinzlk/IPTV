@@ -2,5 +2,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",gia paok steilte minima
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",
 https://maderr.s3.eu-central-1.amazonaws.com/sopa1/live_1080p60.m3u8
