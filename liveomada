@@ -1,11 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Liverpool vs Watford 14:30
-https://server11.freestreamhd.ml/livehls/stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMTA6NDM6MDggQU0maGFzaF92YWx1ZT1HUFdsMVZtVkNDcXBXSHYvRHQzTC9nPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Chelsea vs Brentford 17:00
-https://server11.freestreamhd.ml/livehls/stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMTA6NDM6MDggQU0maGFzaF92YWx1ZT1HUFdsMVZtVkNDcXBXSHYvRHQzTC9nPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Burnley vs Man City 17:00
+https://server11.freestreamhd.ml/livehls/stream1/playlist.m3u8?
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Man Utd vs Leicester 19:30
-https://server16.freestreamhd.ml/livehls/stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMTA6NDU6MzcgQU0maGFzaF92YWx1ZT1uNmVJRzhEYnJWS2pkZTlmZ3o2OWZRPT0mdmFsaWRtaW51dGVzPTIw
+https://server16.freestreamhd.ml/livehls/stream1/playlist.m3u8
