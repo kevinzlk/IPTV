@@ -1,5 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Barcelona vs Sevilla 22:00
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/-wq9tHl74y2TXbKSvNhruskyKtRE3ad4Id_LO6KANhmWxtlPXi5mdu8bijJ09ivYT9XGjpfOH8rSDjsvKUTUZA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Man City vs A.Madrid 22:00
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/nQabApKXeKVR1XvtqCQbsCO2sTbAtYxVdaOnYRm8PqjCQeN8D5i8ZNP59yAQQrl9B8Qe5PKAd6v3qQRUd7Z2jA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Benfica vs Liverpool 22:00
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/QaTkgXZxfJayZdORMsUReBnIO0RqDu2auveQOMZQsPRCZBysOEJXTKT54bMxsgQbWyLMIDdzOICXjq-LXmFl7A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
