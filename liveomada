@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Man City vs Liverpool 18:30
-https://ef695a0c900f4fe3c7e30fd4fb585c92.s3.eu-central-1.amazonaws.com/16166d8b6cbcebd3dcdc32f417f90c15/live_720p60.m3u8
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Levante vs Barcelona 22:00
-
+https://videodelivery.net/1040285a8be2e7d7355f87602b95a34a/manifest/stream_t1_r3.m3u8
