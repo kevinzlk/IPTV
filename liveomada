@@ -2,5 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",test 
-https://loglapzi51191858.cdndelep.ml/streams/98142_375308/720n/index.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",1 
+https://live-ak.vimeocdn.com/exp=1660771284~acl=%2F4c6d40ce-7b7f-469b-a59c-22e2a1928221%2F%2A~hmac=74474470c77c5e2b6793c1cb05f80635a413c5219fa247895a353e7f7661369c/4c6d40ce-7b7f-469b-a59c-22e2a1928221/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",2
+https://live-ak.vimeocdn.com/exp=1660771237~acl=%2Fe4981412-c800-4208-9d7a-cf30b5c349a8%2F%2A~hmac=12ae989e114faf140049c1a2049c914e2681cb0442f3dde161a6e7a30b13e9cc/e4981412-c800-4208-9d7a-cf30b5c349a8/chunklist_b3256000.m3u8
