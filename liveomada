@@ -3,7 +3,10 @@
 
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Psg vs Juve 720p
-https://live-ak.vimeocdn.com/exp=1662487232~acl=%2Fea4dc8cf-16a5-4f88-ae32-039da272d709%2F%2A~hmac=23d6bc95807e547a6bde0d261e255a5b3233e682ec4b81577152f655205ec84b/ea4dc8cf-16a5-4f88-ae32-039da272d709/chunklist_b3256000.m3u8?min_seconds=30
+https://live-ak.vimeocdn.com/exp=1662494460~acl=%2F405cca7f-b1fd-4449-814e-fde46c3164e7%2F%2A~hmac=6f5cf58c7d8ea9fffa3dc7c89e77d0a463970310695245ad48d2007723aa0b73/405cca7f-b1fd-4449-814e-fde46c3164e7/chunklist_b3256000.m3u8?min_seconds=30/ea4dc8cf-16a5-4f88-ae32-039da272d709/chunklist_b3256000.m3u8?min_seconds=30
 
 #EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Celtic vs Real 720p
-https://live-ak.vimeocdn.com/exp=1662487349~acl=%2F7ed77719-53d0-4b31-b928-d9e95b2dde42%2F%2A~hmac=4a04a4906d5e6c5f4ba814c14828a2dcc9d9f7eb5f172d546cdb4907f01a13a0/7ed77719-53d0-4b31-b928-d9e95b2dde42/chunklist_b3256000.m3u8
+https://live-ak.vimeocdn.com/exp=1662494527~acl=%2F1d2203a1-b2d8-4346-9733-536e5fda91c7%2F%2A~hmac=7cdc11ac944616614b8041c2142cef579dabd804846254183d1037ef6186373e/1d2203a1-b2d8-4346-9733-536e5fda91c7/chunklist_b3256000.m3u8?max_segments=10&min_seconds=30/7ed77719-53d0-4b31-b928-d9e95b2dde42/chunklist_b3256000.m3u8
+
+#EXTINF:-1 group-title="Live agwnes" tvg-logo="https://i.imgur.com/11luaGW.png",Sevilla vs Man Utd 720p
+https://live.vimeocdn.com/1662494563-0x678d8ecf58bbbed4938955275819df36bcc7ffd4/c2cc3ccb-9e40-4159-8aaf-bf81eb8f7e39/chunklist_b3256000.m3u8
